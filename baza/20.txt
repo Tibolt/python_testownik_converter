@@ -1,0 +1,6 @@
+X0011
+119. Adresacja pełnoklasowa (classfull) ma następujące cechy: (wybierz dwie)
+Szybkość łącza
+Liczba przeskoków
+Koszt połączenia
+Metryka

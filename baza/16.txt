@@ -1,0 +1,7 @@
+X0011
+115. Które zdania opisują działanie przełącznika? (wybierz dwa)
+Są oparte na algorytmie Dijkstry
+Tworzą złożone bazy danych topologii sieci i korzystają z nich
+Są znane pod ogólną nazwą protokołów SPF
+Uzyskują informacje o trasach i wysyłają je do bezpośrednio połączonych sąsiadów
+Są uważane za dobre rozwiązania dla małych sieci wyposażonych w niedrogie rutery

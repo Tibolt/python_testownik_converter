@@ -1,0 +1,4 @@
+X1000
+352. Jaki jest cel wydania polecenia bandwidth 56 na interface szeregowym routera z działającym protokołem OSPF ? (Wybierz 1)
+protokol bezklasowy
+protokol pelnoklasowy

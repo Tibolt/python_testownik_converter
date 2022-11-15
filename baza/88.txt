@@ -1,0 +1,6 @@
+X11010
+353. Które z poniższych sformułowań dotyczących protokołów wyboru trasy korzystających algorytm rutowania typu stan-łącza są prawdziwe? (Wybierz trzy odpowiedzi).
+zmienna wartość kosztu łącza
+zmienia przepustowość interface na 56kbps
+to jest tylko opis
+jest konieczne dla sygnału DUAL

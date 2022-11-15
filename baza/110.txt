@@ -1,0 +1,6 @@
+X00001
+375. Jaki czynnik bierze pod uwagę implementacja firmy CISCO protokołu OSPF, aby wybrać najlepszą trasę? Wybierz jedną odpowiedź
+obsługuje wyłącznie protokół IP
+pozwala na większą elastyczność
+ułatwia powstawanie domen kolizyjnych
+zapewnia wsparcie dla usługi jakości (np. telefonia IP)

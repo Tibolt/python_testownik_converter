@@ -1,0 +1,6 @@
+X1000
+105. Który zakres adresów jest określony przy pomocy maski blankietowej 192.168.70.0 0.0.0.127?
+od 192.168.70.0 do 192.168.70.127
+od 192.168.70.0 do 192.168.71.255
+od 192.168.70.0 do 192.168.70.63
+od 192.168.70.0 do 192.168.70.255

@@ -1,0 +1,7 @@
+X00010
+324. W sieci użytkownicy uzyskuja błędne dane adresowe zfałszywego serwera DHCP :
+Uniemożliwić fizyczny dostęp do urządzeń
+Security port
+Zastosowac SSH
+Wylaczyc DHCP Snopping
+Ustawić port przełącznika w tryb Error Disable

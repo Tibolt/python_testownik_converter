@@ -1,0 +1,6 @@
+X1010
+384. Classless Interdomain Routing (CIDR) umożliwia (Wybierz 2):
+zarządzania aktualną informacją o trasach
+ręcznego wprowadzania tras przez administratora sieci
+znajdowania nowej najlepszej ścieżki gdy aktualna ścieżka przestaje być dostępna
+zabezpieczenia bramy ostatniej szansy (Gateway of Last Resort) dla sieci końcowej (stub Network)

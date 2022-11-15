@@ -1,0 +1,7 @@
+X0100
+317.Komputer ma mieć dostęp do serwera www w innej sieci. Która z metod inter-VLAN routing pozwala łatwą konfigurację z użyciem rutera w warstwie 3 jednak kosztem przepustowości. Wybierz jedną odpowiedź
+jedną odpowiedź
+od 172.16.32.O do 172.16.240.255
+od 172.16.32.O do 172.16.47.255
+Od 172.16.32.O do 172.16.63.255
+Od 172.16.32.O do 172.16.34.255

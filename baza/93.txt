@@ -1,0 +1,6 @@
+X001
+358. Ruter obsługuje warstry 1,2,3 modelu ISO OSI. Dopasuj cechy do czynności typowych dla danej warstwy: Decyzja o wyborze trasy na podstawie docelowego adresu IP
+hosty pracujące w jednym VLANie nie wiedzą , że istnieją inne vlany
+VLANy nie są od siebie odizolowane i pakiety mogą być przenoszone pomiędzy nimi bez przeszkód
+VLAN jest fizycznym podziałem sieci warstwy 1
+każdy VLAN jest domeną rozgłoszeniową zazwyczaj tożsamą z siecią IP

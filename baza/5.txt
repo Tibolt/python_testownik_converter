@@ -1,0 +1,6 @@
+X1000
+103. Który scenariusz ma zastosowanie, gdy na interfejsie WAN rutera konfigurujemy klienta DHCP, aby otrzymać dynamicznie aders IP z serwera operatora (ISP)?
+Jest to ruter szerokopasmowy w domu lub sieci SOHO
+Ruter jest też bramą do sieci LAN
+Gdy serwer www udostępniamy publicznie, jest dołączony do rutera
+Ruter jest skonfigurowany jako serwer DHCP

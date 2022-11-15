@@ -1,0 +1,7 @@
+X00100
+322. Osoba atakująca sieć może przechwycić hasła w sesji Telnet :
+Uniemożliwić fizyczny dostęp do urządzeń
+Security port
+Zastosowac SSH
+Wylaczyc DHCP Snopping
+Ustawić port przełącznika w tryb Error Disable

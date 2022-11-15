@@ -1,0 +1,4 @@
+X0001
+13. VLAN, którego ramki na łączu typu trunk nie są oznakowane nazywamy : Wybierz jedną odpowiedź
+Access
+Trunk

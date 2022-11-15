@@ -1,0 +1,6 @@
+X0001
+331. Który zakres adresów jest określony przy pomocy maski blankietowej 192.168.70.0 0.0.1.255 Wybierz jedną odpowiedź
+ARP
+SLAAC
+EUI64
+ICMPv6

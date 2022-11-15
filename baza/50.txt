@@ -1,0 +1,6 @@
+X0100
+315. Które z poniższych zdań poprawnie opisuje rolę NAT w IPv6? Wybierz jedną odpowiedź
+metryke
+numer systemu autonomicznego
+indetyfikator procesu
+dystans administacyjny

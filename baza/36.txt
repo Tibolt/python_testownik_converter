@@ -1,0 +1,6 @@
+X1000
+140. Jak nazywa siÄ kryterium wyboru najlepszej scieĹĽki (best path) przez ruter?
+Nie wpisano polecenia ip helper address
+Adres IP jest niepoprawny dla użytej maski podsieci
+Pula adresów nie może nazywać się RELAY
+Ruter jest skonfigurowany jako klient DHCP

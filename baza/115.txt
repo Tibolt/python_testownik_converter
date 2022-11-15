@@ -1,0 +1,6 @@
+X0011
+380. Które zdania opisuja magistrale VLAN (VLAN Trunk) (Wybierz 2)
+multilayer switch z wlaczonym rutowaniem
+interfejs typu trunk pomiedzy routerem i przelacznikiem
+wiele interfejsow fizycznych routera podlaczonych do przelacznika warstwy 2
+router on a stick

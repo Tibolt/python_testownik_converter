@@ -1,0 +1,7 @@
+X01001
+371. Jakie są korzyści ze stosowania NAT (Wybierz 2):
+LSR
+LRU
+DBD
+Hello
+LSAck

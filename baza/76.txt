@@ -1,0 +1,4 @@
+X01
+341. Dopasuj do akronimu nazwy protokołu wyboru trasy właściwą kategorię: EIGRP
+Link state Routing Protocol
+Distance Vector Routing Protocol

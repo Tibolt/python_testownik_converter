@@ -1,0 +1,6 @@
+X00011
+365. Które z poniższych okreslen sa poprawne dla list rozszerzonych extended ACL (Wybierz 2)
+Ruter jest skonfigurowany jako klient DHCP
+Nie wpisano polecenia ip helper address
+Adres IP jest niepoprawny dla użytej maski podsieci
+Pula adresów nie może nazywać się RELAY

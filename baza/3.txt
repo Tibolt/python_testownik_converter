@@ -1,0 +1,6 @@
+X0001
+101. Które z poniższych zdań opisuje poprawnie role NAT w IPv6?
+Przykładem zastosowania NAT dla IPv6 jest Dual stack
+NAT64 zosatł porzucony prze IETF na przecz NAT-PT
+NAT jest używany do konwersji adresów prywatnych IPv6 na adresy publiczne IPv6
+Jest to tymczasowy mechanizm wspomagający migrację adresów IPv4 do IPv6

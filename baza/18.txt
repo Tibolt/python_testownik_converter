@@ -1,0 +1,6 @@
+X0101
+117. Które zdania opisują poprawnie znakowanie ramek w magistrali (frame tagging)? (wybierz dwie)
+od 172.16.32.0 do 172.16.34.255
+od 172.16.32.0 do 172.16.240.255
+od 172.16.32.0 do 172.16.63.255
+od 172.16.32.0 do 172.16.47.255

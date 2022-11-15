@@ -1,0 +1,6 @@
+X0101
+369. Które zdania poprawnie opisują sekwencję poleceń przedstawioną na obrazku: (wybierz dwie) ip route 172.16.1.0 255.255.255.0 s0/0/0 ip route 192.168.1.0 255.255.255.0 s0/0/0 ip route 192.168.2.0 255.255.255.0 s0/0/0
+ręcznego wprowadzania tras przez administratora w sieci
+znajdowania nowej najlepszej ścieżki gdy aktualna ścieżka przestaje być dostępna
+zarządza aktualną informacją o trasach
+zabezpiecza bramy ostatniej szansy (gateway of last resort) dla sieci końcowej (stub Network)

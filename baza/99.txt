@@ -1,0 +1,6 @@
+X0100
+364. Administrator ma skonfigurować DHCPv4 relay router i wprowadza następujące polecenia Router(config)# interface g0/0 Router(config-if)# ip address 10.0.1.1 255.255.255.0 Router(config-if)# no shutdown Router(config-if)# exit Router(config)# ip dhcp pool RELAY Router(dhcp-config)# end Jednak klient DHCP nie otrzymuje konfiguracji IP z serwera DHCP Jaka jest prawdopodobna przyczyna tej sytuacji? Wybierzjedną odpowiedź
+jest to wewnętrzny adres IP hosta, który jest widoczny wewnątrz naszej sieci
+jest to wewnętrzny adres IP hosta, który jest widoczny dla sieci zewnętrznych
+jest to skonfigurowany adres IP przypisany do hosta na zewnątrz naszej sieci
+jest to adres IP zewnętrznego hosta, który jest widoczny wewnątrz naszej sieci

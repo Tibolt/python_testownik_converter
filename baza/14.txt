@@ -1,0 +1,6 @@
+X1000
+111. Które polecenie powinno być użyte na interfejsie rutera, aby ustawić na nim klienta stateful DHCPv6?
+ipv6 address dhcp
+ipv6 enable
+ipv6 address autoconfigure
+ipv6 dhcp server stateful

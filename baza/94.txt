@@ -1,0 +1,5 @@
+X1010
+359. Które zdania opisują poprawnie pojęcie domeny rozgłoszeniowej (Broadcast Romains) w sieci z przełącznikami ? (Wybierz 2)
+warstwa 1
+warstwa 2
+warstwa 3

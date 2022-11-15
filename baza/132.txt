@@ -1,0 +1,6 @@
+X111000
+397. Które z podanych zaleceń należą do najlepszych praktyk w projektowaniu sieci z przełącznikami(wybierz 3)
+dystans administracyjny
+identyfikator procesu
+metrykę
+umer systemu autonomicznego

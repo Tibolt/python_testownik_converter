@@ -1,0 +1,6 @@
+X0100
+319. Użytkownik włącza swój komputer do nieużywanego do tej pory gniazdka i uzyskuje nieuprawniony dostęp do sieci
+wewnętrzny wybór tras (routing) na przełączniku warstwy 3
+przyłączenie portu rutera do portu przełącznika skonfigurowanego w trybie trunk, każdy VLAN bedzie przypisany do subinterfejsu rutera.
+przyłączenie każdego fizycznego interfejsu rutera do innego fizycznego portu przełącznika, w którym każdy port jest przypisany do innego VLANu
+konfiguracja statycznych tras na przełączniku warstwy 2

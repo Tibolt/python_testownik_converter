@@ -1,0 +1,6 @@
+X1100
+391. Protokoły dynamicznego wyboru trasy(dynamic routing) słuzą do: (wybierz dwie)
+routed port
+SVI
+trunk
+access port

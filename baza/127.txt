@@ -1,0 +1,6 @@
+X0001
+392. Które polecenie realizuje poprawnie następującą politykę : Zarządzanie rutera R1 przezTelnet/SSH może
+Zarządzania aktualną informacją o trasie
+Znajdowania najlepszej scieżki gdy aktualna ścieżka przestaje być dostępna
+Ręcznego wprowadzania tras przez administratora sieci
+Zabezpieczenia bramy ostatniej szansy(gateway of Last Resort) dla sieci końcowej

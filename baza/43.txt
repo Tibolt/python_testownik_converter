@@ -1,0 +1,6 @@
+X001011
+306. Typowe funkcje routera to(wybierz 3 ):
+konfiguracja statycznych tras na przeĹ‚Ä…czniku warstwy 2
+przełącznik każdego fizycznego interfejsu do innego fizycznego przełąacznika w katakta
+wewnętrzny wybór tras(routing) na przełączniku warstwy 3
+przyĹ‚Ä…cznie portu routera do portu przeĹ‚acznika skonfigurowanego w trybie trunk â€¦

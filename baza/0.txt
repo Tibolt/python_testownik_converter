@@ -1,0 +1,6 @@
+X0001
+1. Topologia przedstawiona na rysunku przedstawia konfigurację nazywaną. Wybierz jedną odpowiedźa.
+Dynamie lnter-VU\N Routing
+Multilayer Switching lnter-VLAN Routing
+Legacy lnter-VU\N Routing
+Router on a Stick lnter-VU\N Routing

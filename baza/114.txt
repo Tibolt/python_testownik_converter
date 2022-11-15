@@ -1,0 +1,6 @@
+X0100
+379. Komputer ma mieć dostęp do serwera WWW innej sieci. Która za metod InterVLAN routing pozwala uzyskac najwieksza przepustowość w warstwie 3 i jednoczesnie udostępni brame domyslna dla komputera? (Wybierz 1)
+wysyła broadcast do lokalnego segmentu aby otrzymać jakąkolwiek odpowiedź
+sprawdza ARP cache w poszukiwaniu docelowego adresu MAC
+pyta serwer DNS o dane odległego hosta
+wykonuje operacje AND na docelowym adresie IP i na swojej masce podsieci

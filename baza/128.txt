@@ -1,0 +1,7 @@
+X10
+393. Dopasuj opis do nazwy protokołu OSPF: Odlicza czas, po którym ruter uznaje, że sąsiad jest niedostepny
+być realizowane wyłącznie z adresu 10.1.1.1
+R1(config)# ip access-list 10 permit host 10.1.1.1 R1(config)#interface f0/0 R1(config)#ip access-group 10 in
+R1(config)# ip access-list 10 permit host 10.1.1.1 R1(config)#line vty 0 15 R1(config)#ip access-group 10 out
+R1(config)# ip access-list 10 permit host 10.1.1.1 0.0.0.0 R1(config)#line vty 0 15 R1(config)#ip accessgroup 10 in
+R1(config)# ip access-list 10 permit host 10.1.1.1 R1(config)#line vty 0 15 R1(config)#ip access-group 10 in

@@ -1,0 +1,6 @@
+X0100
+396. Administrator sieci wydaje polecenie router ospf 100. Co oznacza liczba 100 w tym poleceniu? Wybierz jedną odpowiedź
+Jest to ruter szerokopasmowy w domu lub sieci SOHO
+Router jest też bramą do sieci LAN
+Router jest skonfigurowany jako klient DHCP
+Gdy serwer www udostępniany publicznie jest podłączony do routera

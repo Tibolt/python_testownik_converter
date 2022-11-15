@@ -1,0 +1,6 @@
+X0010
+329. Co oznacza numer 15 w poleceniu encapsulation dot1q 15 native zastosowanym na routerze podczas konfiguracji subinterface? Wybierz jedna:
+DHCPDISCOVER > DHCPOFFER > DHCPREQUEST > DHCPACK
+DHCPDISCOVER > DHCPOFFER > DHCPACK > DHCREQUEST
+DHCPACK > DHCREQUEST > DHCPDISCOVER > DHCPOFFER
+DHCPDISCOVER > DHCPACK > DHCPOFFER > DHCREQUEST

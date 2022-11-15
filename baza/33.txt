@@ -1,0 +1,4 @@
+X10
+131. Jaki rodzaj połączenia zostanie zrealizowany, gdy jeden z portów jest w trybie Dynamic Auto, a drugi Access?
+Access
+Trunk

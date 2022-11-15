@@ -1,0 +1,6 @@
+X0011
+109. Które zdania opisują wymagania realizowane przez VLAN głosowy (Voice VLAN)? (wybierz dwie)
+Aparat telefoniczny IP (np. Cisco 7960) musi być podłączony do dodatkowego gniazda LAN w komputerze
+Zapewnia bezpośrednie podłączenie klasycznego aparatu telefonicznego
+Zapewnia odpowiednie pasmo dla zachowania jakości głosu
+Ustawia wyższy priorytet dla głosu podczas transmisji przed innymi rodzajami danych

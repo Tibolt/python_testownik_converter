@@ -1,0 +1,4 @@
+X1000
+395. Który scenariusz ma zastosowanie gdy na interfejsie WAN rutera konfigurujemy klienta DHCP aby otrzymać dynamicznie adres IP z serwera operatora(ISP)?
+Update interval
+Hello interval

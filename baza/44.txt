@@ -1,0 +1,8 @@
+X1100
+307. Które zdania opisuja protokol CISCO DISCOVERY PROTOCOL CDP (wybierz dwa)
+Przełczenie ramek
+Przesyłanie pakiet—w pomi«dzy urz dzeniami koÄcowymi
+Podział sieci na domeny rozg¸oszeniowe
+Obsług protoko¸u SIP
+Przełączanie pakiet—w
+Zestawianie połączeń pomi«dzy uýytkownikami

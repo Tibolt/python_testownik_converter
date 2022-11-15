@@ -1,0 +1,4 @@
+X01
+394. Dopasuj opis do nazwy protokołu OSPF: Odlicza czas, pomiędzy pakietami HELLO
+Update interval
+Hello interval

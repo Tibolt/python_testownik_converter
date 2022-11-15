@@ -1,0 +1,2 @@
+X11100
+114. Które z poniższych sformułowań dotyczących protokołów wyboru trasy korzystających z algorytmu rutowania typu stan-łącza są prawdziwe? (wybierz trzy)

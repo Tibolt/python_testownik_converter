@@ -1,0 +1,7 @@
+X0010
+376. Który scenariusz ma zastosowanie gdy na interface WAN routera konfigurujemy klienta DHCP aby otrzymać dynamiczne IP: (Wybierz 1)
+najmniejszą liczbę przeskoków
+czas działania
+obciążenie
+niezawodność
+szerokość pasma

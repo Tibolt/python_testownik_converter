@@ -1,0 +1,5 @@
+X010
+356. Ruter obsługuje warstry 1,2,3 modelu ISO OSI. Dopasuj cechy do czynności typowych dla danej warstwy: Dekapsułkowanie pakietów
+warstwa 1
+warstwa 2
+warstwa 3

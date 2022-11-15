@@ -1,0 +1,6 @@
+X1010
+110. Wybierz dwa zdania, które opisują właściwości sieci LAN z przełącznikami? (jedna lub więcej)
+Zapewnia wsparcie dla usług jakości (np. telefonia IP)
+Obsługuje wyłącznie protokół IP
+Pozwala na większą elastyczność
+Ułatwia powstawanie domen kolizyjnych

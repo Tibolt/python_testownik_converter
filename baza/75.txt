@@ -1,0 +1,4 @@
+X10
+340. Dopasuj do akronimu nazwy protokołu wyboru trasy właściwą kategorię: OSPFv3
+Link state Routing Protocol
+Distance Vector Routing Protocol

@@ -1,0 +1,6 @@
+X010101
+361. Które zdania opisują MAC Adress Flooding? (wybierz 3)
+jest trasa która wybiera router w przypadku awarii trasy podstawowej
+jest trasa pasujaca do wszystkich pakietow
+jest trasa do adresu pelnoklasowego np. 172.16.0.0/16
+jest prosta trasa statyczna z adresem IPv4 sieci docelowej 0.0.0.0/0

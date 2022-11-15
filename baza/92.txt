@@ -1,0 +1,5 @@
+X1001
+357. Które zdania definiują sieć VLAN (wybierz 2):
+warstwa 1
+warstwa 2
+warstwa 3

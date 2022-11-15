@@ -1,0 +1,10 @@
+X0110
+337. Poniższy wydruk przedstawia wszystkie trasy odczytane poleceniem show ip route. Które z poniższych opisów są prawdziwe dla tych danych: (wybierz 2) C 192.168.1.0/24 is directly connected, FastEthernet0/1 C 192.168.2.0/24 is directly connected, Serial0/2/0 S 192.168.3.0/24 [1/0] via 192.168.1.14
+RAM
+ROM
+System operacyjny
+Klawiatura
+Monitor LCD
+Interface szeregowe V35
+CPU
+DVD

@@ -1,0 +1,6 @@
+X1000
+343. Dopasuj do akronimu nazwy protokołu wyboru trasy właściwą kategorię: RIPv2
+Dynamie NAT
+Static NAT
+ARP
+PAT

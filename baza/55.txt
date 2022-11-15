@@ -1,0 +1,6 @@
+X1000
+320. Sieć 192.168.11.0 /24 może połączyć się protokołem Telnet do 192.168.30.0 /24, jednak zgodnie z polityką bezpieczeństwa w firmie połączenie Telnet w powyższej relacji jest zabronione . ACL jest ustawione na R1 port GO/1 kierunek in Wybierz jedną odpowiedź Rysunek 2
+Uniemożliwić fizyczny dostęp do urządzeń
+Security port
+Zastosowac SSH
+Wylaczyc DHCP Snopping

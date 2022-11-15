@@ -1,0 +1,4 @@
+X1000
+342. W spółce zaprojektowano sieć tak aby pecety w wewnętrznej sieci miały adresy przydzielane przez serwery DHCP i pakiety wysyłane do Internetu były poddawane translacji przez ruter NAT. Jaki rodzaj translacji należy zastosować aby aby pecety wysyłające pakiety do Internetu przez ruter nie wyczerpały unikalnych publicznych adresów IP z puli translacji? Wybierzjedną odpowiedź .
+Link state Routing Protocol
+Distance Vector Routing Protocol

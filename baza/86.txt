@@ -1,0 +1,4 @@
+X01
+351. RIPv1
+protokol bezklasowy
+protokol pelnoklasowy

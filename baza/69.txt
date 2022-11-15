@@ -1,0 +1,6 @@
+X100
+334. Wypelnij puste pole. Uzyj formatu kropkowodziesietnego.Podaj maske blankietowa zwiazana z adresem podsieci 192.168.12.96/27
+Wielodostep z rozglaszaniem
+Punkt-wiele punktow
+Wielodostep bez rozglaszania
+Punkt-punkt

@@ -1,0 +1,6 @@
+X01
+130. Jaki rodzaj połączenia zostanie zrealizowany, gdy jeden z portów jest w trybie Dynamic Auto, a drugi Dynamic desirable?
+voice VLAN
+managementVLAN
+default VLAN
+native VLAN

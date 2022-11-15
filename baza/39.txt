@@ -1,0 +1,6 @@
+X0110
+302. Które cechy opisują domyślną trase (default static route) (wybierz dwie)
+Przełacznik LAN przenosi ramiki Ethernet na podstawie adresu docelowego ramiki Ethernet
+Kazdy przelacznik LAN obsluguje protokol OSPF
+Najszybsze przeloaczniki LAN przenosza ramki z opóźnieniem okolo 32 bitów
+PrzeĹ‚acznik podejmuje decyzje w opraciu o port wyjsciowy i port docelowy

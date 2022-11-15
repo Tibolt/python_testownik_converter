@@ -1,0 +1,6 @@
+X0001
+W jaki sposób komputer podczas procesu kapsułkowania, określa czy pakiet jest kierowany do hosta w innej sieci?
+sumowanie tras ( route summarization) do supersieci (supernetting)
+sumowanie tras z maską krótszą niz maska domyślną w adresacji pełnoklasowej
+stosowanie przy podziale na podsieci masek tej samej długości
+automatyczną agregację na granicy sieci z uzyciem maski domyślnej w adresacji pełnoklasowej

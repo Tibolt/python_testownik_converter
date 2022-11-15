@@ -1,0 +1,6 @@
+X0001
+104. Gdy konfigurujemy NAT na ruterze Cisco, co oznacza "inside local IP address"?
+jest to wewnętrzny adres IP hosta, który jest widoczny dla sieci zewnętrznych
+jest to adres IP zewnętrznego hosta, który jest widoczny wewnątrz naszej sieci
+jest to skonfigurowany adres IP przypisany do hosta na zewnątrz naszej sieci
+jest to wewnętrzny adres IP hosta, który jest widoczny wewnątrz naszej sieci

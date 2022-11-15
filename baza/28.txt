@@ -1,0 +1,6 @@
+X0001
+127. Inicjowane w przypadku wystąpienia zmiany w topologii:
+Baza danych
+Hello
+OSPF
+LSA

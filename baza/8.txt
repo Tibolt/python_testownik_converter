@@ -1,0 +1,8 @@
+X100101
+106. Gdzie zazwyczaj stosujemy statyczny wybór tras (statis routing)? (wybierz trzy)
+W sieciach końcowych (stub network)
+Tam, gdzie nie wymaga się od administratora znajomości topologii zarządzanej sieci
+W sieciach szybko rosnących ze złożoną topologią połączeń
+Tam, gdzie należy utworzyć zapasową trasę na wypadek awarii trasy podstawowej
+W dużych sieciach
+W mniejszych sieciach

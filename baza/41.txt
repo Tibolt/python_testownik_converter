@@ -1,0 +1,8 @@
+X01100000
+304. Które zdanie poprawnie opisuje sekwencje polecen przedstwiana
+wlacz shut down wszystkie nieuĹĽywane porty
+uzywaj do zdalengo zarzadzania przelacznikami TELENT
+zawsze urzywaj VLAN 1 do zarzadzania przelacznikami
+odseparuj ruch zwiazany z zarzadzaniem od ruchu uĹĽytkownikow
+przenis wszystkie porty z VLAN 1 do nieuĹĽywanego VLANUu
+Ustawiaj tryb auto desirable na wszystkich poĹ‚aczneniach typu trunk

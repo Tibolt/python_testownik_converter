@@ -1,0 +1,6 @@
+X0001
+11. Co jest prawdziwą różnicą pomiędzy NAT i PAT? Wybierz jedną odpowiedź
+Dynamie NAT umożliwia uzyskanie zawsze tego samego adresu gdy wymagany jest dostęp do sieci zewnętrznej
+W PAT używamy słowa overload" na końcu access-list aby podzielić pojedynczy publiczny adres
+Static NAT pozwala zmapować jeden prywatny adres na wiele adresów publicznych
+PAT używa unikalnych numerów portów źródłowych do odróżniania pomiędzy sobą różnych translacji adresów

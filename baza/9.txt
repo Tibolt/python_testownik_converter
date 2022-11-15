@@ -1,0 +1,6 @@
+X1100
+107. Protokoły dynamicznego wybory trasy (dynamic routing) służą do: (wybierz dwie)
+Znajdowania nowej najlepszej ścieżki, gdy aktualna ścieżka przestaje być dostępna
+Zarządzania aktualną informacją o trasach
+Ręcznego wprowadzania tras przez administratora sieci
+Zabezpieczenia bramy ostatniej szansy (Gateway of Last Resort) dla sieci końcowej (stub network)

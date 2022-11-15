@@ -1,0 +1,4 @@
+X10
+350. EIGRP
+protokol bezklasowy
+protokol pelnoklasowy

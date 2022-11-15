@@ -1,0 +1,6 @@
+X1000
+102. Podaj maskę blankietową związaną z adresem podsieci 192.168.12.96/27
+0.0.0.31
+192.168.12.127
+0.0.0.224
+255.255.255.224

@@ -1,0 +1,6 @@
+X110000
+345. Z jakiego powodu administrator sieci mialby używać interface petli zwrotnej (loopback) podczas konfigurowania protokolu OSPF (Wybierz 2):
+liczba przeskokow
+koszt poloczenia
+metryka
+szybkość lacza

@@ -1,0 +1,6 @@
+X1010
+100. Na obrazku (100.jpg) przedstawiono tabele z trasami na trzech routerach , okreś prawdziwe zdanie opisujące
+Sieć nie osiągneła jeszcze stanu zbieżności
+Sieć jest w stanie pełnej zbieżnosci
+Trasa do sieci 10.1.0.0 pojawi się w tablicy tras R# podczas następnej aktualizacji
+podczas nastepnej aktualizacji metryka trasy do sieci 10.1.0.0 na routerze R2 zmieni się na 2

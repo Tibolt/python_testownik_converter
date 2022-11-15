@@ -1,0 +1,7 @@
+X010010
+325. Z jakiego powodu administrator sieci miałby używać interfejsów pętli zwrotnej (loopback) podczas konfigurowania protokołu OSPF? (Wybierz dwie odpowiedzi) Wybierz jedną lub więcej:
+Uniemożliwić fizyczny dostęp do urządzeń
+Security port
+Zastosowac SSH
+Wylaczyc DHCP Snopping
+Ustawić port przełącznika w tryb Error Disable

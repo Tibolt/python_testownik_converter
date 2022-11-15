@@ -1,0 +1,6 @@
+X0001
+124. Oblicza najlepszą ścieżkę do każdej sieci docelowej:
+EUI-64
+ARP
+ICMPv6
+SLAAC

@@ -1,0 +1,6 @@
+X1100
+404. Które określenia są poprawne w przypadku listy kontroli dostepu( ACL) dla IPv6? ( wybierz dwie)
+jest trasą pasującą do wszystkich pakietów
+jest trasą, którą wybierze router w przypadku awarii trasy podstawowej
+jest prostą trasą statyczną z adresem IPv4 sieci docelowej 0.0.0.0/0
+jest trasą dp adresu pełnoklasowego np. 172.16.0.0/16

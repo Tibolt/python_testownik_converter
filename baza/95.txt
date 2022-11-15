@@ -1,0 +1,6 @@
+X0101
+360. Które cechy opisuja domyslna trase (default static route) ? (Wybierz 2)
+wszystkie porty przełącznika domyślnie są w tej samej domenie rozgłoszeniowej
+domena rozgłoszeniowa i domena kolizyjna to różne nazwy tego samego obszaru
+rozgłoszenia (broadcast) sa przesylane do wszystkich portow dostępowych przelacznika nawet gdy naleza do roznych…
+przelacznik rozsyla ramki rozgloszeniowe do wszystkich portow , zatem przelaczniki nie przerywaja domen rozgloszeniow

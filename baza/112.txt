@@ -1,0 +1,6 @@
+X010110
+377. Gdzie zazwyczaj stosujemy statyczny wybór tras (static routing) (Wybierz 3):
+router jest skonfigurowany jako serwer DHCP
+Jest to router szerokopasmowy w domu lub sieci SOHO
+router jest też bramą do sieci LAN
+gdy serwer WWW udostępniamy publicznie jest dołączony do routera

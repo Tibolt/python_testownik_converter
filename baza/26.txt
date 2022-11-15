@@ -1,0 +1,6 @@
+X0100
+125. Powoduje utworzenie i utrzymywanie przyległości z sąsiednimi urządzeniami:
+Hello
+Baza danych
+LSA
+SPF

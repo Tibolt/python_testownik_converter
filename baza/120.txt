@@ -1,0 +1,6 @@
+X1010
+385. Które określenia są poprawne w przypadku list kontroli dostępu (ACL) dla IPv6 (Wybierz 2):
+sumowanie tras (route summarization) do supersieci (supernetting)
+automatyczną agregację na granicy sieci z użyciem maski domyślnej w adresacji pełno klasowej
+sumowanie tras z maską krótszą niż maska domyślna w adresacji pełnoklasowej
+stosowanie przy podziale na podsieci masek tej samej długości

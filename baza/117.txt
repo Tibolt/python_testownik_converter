@@ -1,0 +1,8 @@
+X1100
+382. Które zdania opisują poprawinie znakowanie ramek w magistrali? (wybierz 2)
+Buffer overflow
+double tagging attack
+Network security reconnaissance attaca
+switch password attack
+switch spoofing attack
+phishing attack

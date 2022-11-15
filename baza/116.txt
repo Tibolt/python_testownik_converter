@@ -1,0 +1,6 @@
+X010010
+381. Zagrozenia dla bezpieczeństwa charakterystyczne dla sieci przełączników (Wybierz 2) :
+port magistrali (VLAN trunk port) jest zawsze przypisany do VLAN 1
+magistrala VLAN (VLAN trunk) ustanowiona pomiędzy przełącznikami pozwala na łączność pomiedzy dwoma komputerami wlaczanymi na portach
+magistrala VLAN (VLAN trunk) przenosi wiecej niż jeden VLAN
+magistrala VLAN (VLAN trunk) jest zazwyczaj ustawnawiana pomiedzy przelacznikami aby skomunikowac urzadzenia w tym samym VLANie nawet…

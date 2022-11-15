@@ -1,0 +1,8 @@
+X0010
+310. Kt—ry zakres adres—w jest okreslony przy pomocy maski blankietowej 192.168.70.0 0.0.1.255
+Extended ACL jest zakoÄczona niejawna regu¸ przepućc (permit)
+Wiele List ACL moýe byŤ uýyte na tym samym interfejscie pod warunkiem ze dotyczy tego samego
+kierunku
+Extended ACL sprawdza adres zrodla i adres docelowy
+Numer portu moze byc uzyt do uscislenia definicji ACL
+Extended ACL jest oznaczony liczbami z zakresu 1 do 99

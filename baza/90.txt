@@ -1,0 +1,6 @@
+X100
+355. Ruter obsługuje warstry 1,2,3 modelu ISO OSI. Dopasuj cechy do czynności typowych dla danej warstwy: Odbiór sygnału z zakodowanymi bitami
+CDP jest firmowym protokołem warstwy 2 używanym do rozpoznania innych bezpoś. Podłączonych urządzeń cisco
+cisco rekomenduje wyłączenie CDP jeśli nie jest używany
+protokół CDP wymaga do swojego działania poprawnie skonfigurowanego adresu IP
+CDP jest protokołem dostępnym wyłącznie na przełącznikach LAN

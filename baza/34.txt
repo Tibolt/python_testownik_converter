@@ -1,0 +1,4 @@
+X0001
+132. Administator skonfigurowal router pwr do inter-VLAN routing używajać powyższych poleceń jaki rodzaj portu jest wymaganay na przełączniku aby po przełączeniu do niego intefejsu G0/0 routera Pwr możliwy był inter-VLAN routing
+Access
+Trunk

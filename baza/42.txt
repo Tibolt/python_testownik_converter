@@ -1,0 +1,9 @@
+X0010
+305. Którą skalowana metoda musi była zastosowana aby obsłużyć inter-VLAN routing w sieci z przeł z 1000 lub wiecej VLANów?
+ipv6 route 2001:DB8:ACAD:2::/64 2001:DB8:ACAD:4::2
+ipv6 route 2001:DB8:ACAD:5::/64 2001:DB8:ACAD:4::2
+ipv6 route 2001:DB8:ACAD:3::/64 2001:DB8:ACAD:4::2
+tak skonstruowane trasy maja nazwe â€žDirectly Connected Static Routeâ€ť
+tak skonstruowane trasy nazywamy â€žNext-HOp Static Routeâ€ť
+Konifigurowany jest statyczny wybĂłr tras â€žStatic Routingâ€ť
+Jest to konifuracja trasy domyĹ›lnej â€žDefault routeâ€ť

@@ -1,0 +1,6 @@
+X0100
+316. Który zakres adresów jest określony przy pomocy maski blankietowej 172.16.32.0 0.0.15.255 Wybierz
+NAT64 został porzucony przez IETF na rzecz NAT-PT
+Jest to tymczasowy mechanizm wspomagający migrację z adresów IPv4 do IPv6
+Przykładem zastosowania NAT dla IPv6 jest Dual stack
+NAT jest używany do konwersji adresów prywatnych IPv6 na adresy publiczne IPv6

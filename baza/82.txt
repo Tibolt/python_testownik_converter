@@ -1,0 +1,6 @@
+X0011
+347. Które zdania opisuja właściwości Content Addressable Memory (CAM) (Wybierz 2):
+identyfikator routera
+najniższy koszt interface
+najnizszy adres IP protokolu
+najwyższy numer procesu OSPF

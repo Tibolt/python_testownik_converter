@@ -1,0 +1,6 @@
+X0100
+330. Ktore rozwiązanie służące dynamicznemu przypisaniu portow IPv6 do hostow jest alternatywa dla DHCPv6 Wybierz jedna odpowiedz:
+numer podsieci
+Numer interface
+VLAN ID
+Numer subinterface

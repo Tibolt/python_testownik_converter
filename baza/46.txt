@@ -1,0 +1,6 @@
+X00110
+309. Kt—re z poniýszych okrećleÄ sa porawne dla list rozszerzonych extendet ACL (wybierz dwie)
+ARP
+Dynamic NAT
+Static NAT
+PAN

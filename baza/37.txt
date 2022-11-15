@@ -1,0 +1,6 @@
+X0001000000
+300. Administrator ma skonfiguraowac DHCPv4 relay router i wpowadza nastpujace poleceni int g0/0
+Metryka
+Liczba przeskoków
+Koszt połączenia
+Szybkośc łącza

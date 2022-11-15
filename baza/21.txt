@@ -1,0 +1,6 @@
+X001101
+120. Przełączniki pomagają łagodzić zatory w sieci (Alleviating Network Congestion) przez: (wybierz trzy)
+Zazwyczaj dopasowujemy maskę sieci do liczby urządzeń w podsieci stosując technikę VLSM
+Zazwyczaj adresy klasy C agregujemy, stosując maski krótsze od 24 bitów
+W sieciach używających tej adresacji do podziału na podsieci używamy tej samej maski
+Największy zakres adresyowy w jednej sieci jest odgraniczony maską domyślną o długości 8, 16 lub 24 bity

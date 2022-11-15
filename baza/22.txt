@@ -1,0 +1,8 @@
+X001110
+121. Gdy pakiet wędruje z sieci do sieci, to... (wybierz 3)
+Powszechnie stosowanie światłowodowych portów o szybkości 10000000 b/s
+Stosowanie zaawansowanych protokołów wyboru trasy
+Udostępnianie portów o dużej szybkości
+Umożliwianie komunikacji full-duplex pomiędzy urządzeniami
+Dzielenie ramek na mniejsze
+Ułatwianie segmentacji sieci lokalnej na osobne domeny kolizyjne
