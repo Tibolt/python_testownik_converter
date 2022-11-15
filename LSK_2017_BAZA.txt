@@ -1,0 +1,1025 @@
+X0001
+1. Topologia przedstawiona na rysunku przedstawia konfigurację nazywaną. Wybierz jedną odpowiedźa.
+Dynamie lnter-VU\N Routing
+Multilayer Switching lnter-VLAN Routing
+Legacy lnter-VU\N Routing
+Router on a Stick lnter-VU\N Routing
+
+X0100
+10. Administrator sieci wydaje polecenie router ospf 100. Co oznacza liczba 100 w tym poleceniu? Wybierz jedną odpowiedź
+dystans administracyjny
+identyfikator procesu
+metrykę
+umer systemu autonomicznego
+
+X1010
+100. Na obrazku (100.jpg) przedstawiono tabele z trasami na trzech routerach , okreś prawdziwe zdanie opisujące
+Sieć nie osiągneła jeszcze stanu zbieżności
+Sieć jest w stanie pełnej zbieżnosci
+Trasa do sieci 10.1.0.0 pojawi się w tablicy tras R# podczas następnej aktualizacji
+podczas nastepnej aktualizacji metryka trasy do sieci 10.1.0.0 na routerze R2 zmieni się na 2
+
+X0001
+101. Które z poniższych zdań opisuje poprawnie role NAT w IPv6?
+Przykładem zastosowania NAT dla IPv6 jest Dual stack
+NAT64 zosatł porzucony prze IETF na przecz NAT-PT
+NAT jest używany do konwersji adresów prywatnych IPv6 na adresy publiczne IPv6
+Jest to tymczasowy mechanizm wspomagający migrację adresów IPv4 do IPv6
+
+X1000
+102. Podaj maskę blankietową związaną z adresem podsieci 192.168.12.96/27
+0.0.0.31
+192.168.12.127
+0.0.0.224
+255.255.255.224
+
+X1000
+103. Który scenariusz ma zastosowanie, gdy na interfejsie WAN rutera konfigurujemy klienta DHCP, aby otrzymać dynamicznie aders IP z serwera operatora (ISP)?
+Jest to ruter szerokopasmowy w domu lub sieci SOHO
+Ruter jest też bramą do sieci LAN
+Gdy serwer www udostępniamy publicznie, jest dołączony do rutera
+Ruter jest skonfigurowany jako serwer DHCP
+
+X0001
+104. Gdy konfigurujemy NAT na ruterze Cisco, co oznacza "inside local IP address"?
+jest to wewnętrzny adres IP hosta, który jest widoczny dla sieci zewnętrznych
+jest to adres IP zewnętrznego hosta, który jest widoczny wewnątrz naszej sieci
+jest to skonfigurowany adres IP przypisany do hosta na zewnątrz naszej sieci
+jest to wewnętrzny adres IP hosta, który jest widoczny wewnątrz naszej sieci
+
+X1000
+105. Który zakres adresów jest określony przy pomocy maski blankietowej 192.168.70.0 0.0.0.127?
+od 192.168.70.0 do 192.168.70.127
+od 192.168.70.0 do 192.168.71.255
+od 192.168.70.0 do 192.168.70.63
+od 192.168.70.0 do 192.168.70.255
+
+X100101
+106. Gdzie zazwyczaj stosujemy statyczny wybór tras (statis routing)? (wybierz trzy)
+W sieciach końcowych (stub network)
+Tam, gdzie nie wymaga się od administratora znajomości topologii zarządzanej sieci
+W sieciach szybko rosnących ze złożoną topologią połączeń
+Tam, gdzie należy utworzyć zapasową trasę na wypadek awarii trasy podstawowej
+W dużych sieciach
+W mniejszych sieciach
+
+X1100
+107. Protokoły dynamicznego wybory trasy (dynamic routing) służą do: (wybierz dwie)
+Znajdowania nowej najlepszej ścieżki, gdy aktualna ścieżka przestaje być dostępna
+Zarządzania aktualną informacją o trasach
+Ręcznego wprowadzania tras przez administratora sieci
+Zabezpieczenia bramy ostatniej szansy (Gateway of Last Resort) dla sieci końcowej (stub network)
+
+X000110
+108. Z jakiego powodu administrator sieci miałby używać interfejsów pętli zwrotnej (loopback) podczas konfigurowania protokołu OSPF? (wybierz dwie)
+Jako identyfikator routera OSPF mogą być używane tylko adresy pętli zwrotnej (loopback)
+Interfejsy pętli zwrotnych służą do ustawienia metryk protokołu OSPF
+Adresy pętli zwrotnej (loopback) powodują włączenie funkcji sprawdzania błędów w protokole OSPF
+Adres pętli zwrotnej (loopback) zostanie użyty jako identyfikator rutera, zastępując lokalny adres IP
+Pętle zwrotne to interfejsy logiczne, dlatego nigdy nie ulegają awarii
+Adres pętli zwrotnej (loopback) zastąpi skonfigurowaną wartość priorytetu rutera
+
+X0011
+109. Które zdania opisują wymagania realizowane przez VLAN głosowy (Voice VLAN)? (wybierz dwie)
+Aparat telefoniczny IP (np. Cisco 7960) musi być podłączony do dodatkowego gniazda LAN w komputerze
+Zapewnia bezpośrednie podłączenie klasycznego aparatu telefonicznego
+Zapewnia odpowiednie pasmo dla zachowania jakości głosu
+Ustawia wyższy priorytet dla głosu podczas transmisji przed innymi rodzajami danych
+
+X0001
+11. Co jest prawdziwą różnicą pomiędzy NAT i PAT? Wybierz jedną odpowiedź
+Dynamie NAT umożliwia uzyskanie zawsze tego samego adresu gdy wymagany jest dostęp do sieci zewnętrznej
+W PAT używamy słowa overload" na końcu access-list aby podzielić pojedynczy publiczny adres
+Static NAT pozwala zmapować jeden prywatny adres na wiele adresów publicznych
+PAT używa unikalnych numerów portów źródłowych do odróżniania pomiędzy sobą różnych translacji adresów
+
+X1010
+110. Wybierz dwa zdania, które opisują właściwości sieci LAN z przełącznikami? (jedna lub więcej)
+Zapewnia wsparcie dla usług jakości (np. telefonia IP)
+Obsługuje wyłącznie protokół IP
+Pozwala na większą elastyczność
+Ułatwia powstawanie domen kolizyjnych
+
+X1000
+111. Które polecenie powinno być użyte na interfejsie rutera, aby ustawić na nim klienta stateful DHCPv6?
+ipv6 address dhcp
+ipv6 enable
+ipv6 address autoconfigure
+ipv6 dhcp server stateful
+
+X1
+113. Wypełnij puste pole. Użyj formatu kropkowo-dziesiętnego. Podaj maskę blankietową związaną z adresem
+podsieci 156.17.128.0/17
+0.0.127.255
+
+X11100
+114. Które z poniższych sformułowań dotyczących protokołów wyboru trasy korzystających z algorytmu rutowania typu stan-łącza są prawdziwe? (wybierz trzy)
+Są oparte na algorytmie Dijkstry
+Tworzą złożone bazy danych topologii sieci i korzystają z nich
+Są znane pod ogólną nazwą protokołów SPF
+Uzyskują informacje o trasach i wysyłają je do bezpośrednio połączonych sąsiadów
+Są uważane za dobre rozwiązania dla małych sieci wyposażonych w niedrogie rutery
+
+X0011
+115. Które zdania opisują działanie przełącznika? (wybierz dwa)
+Każdy przełącznik LAN obsługuje protokół OSPF
+Najszybsze przełączniki LAN przenoszą ramki z opóźnieniem około 32 bitów
+Przełącznik LAN przenosi ramki Ethernet na podstawie adresu docelowego ramki Ethernet
+Przełącznik podejmuje decyzję w oparciu o port wejściowy i port docelowy
+
+X0001
+116. Który zakres adresów jest określony przy pomocy maski maski blankietowej 172.16.32.0 0.0.15.255?
+od 172.16.32.0 do 172.16.34.255
+od 172.16.32.0 do 172.16.240.255
+od 172.16.32.0 do 172.16.63.255
+od 172.16.32.0 do 172.16.47.255
+
+X0101
+117. Które zdania opisują poprawnie znakowanie ramek w magistrali (frame tagging)? (wybierz dwie)
+Jedynym protokołem używającym znaczników (tags) jest protokół IEEE 802.1Q
+Znacznik (tag) ramki pozwala przełącznikom na identyfikację, do którego VLANu należą ramki
+Znakowanie ramek (frame tagging) jest procesem polegającym na dodaniu nagłówka identyfikującego
+VLAN do ramki
+Protokół IEEE 802.1Q dodaje znacznik (tag) na początku każdej ramki przesyłanej przez magistralę (VLAN trunk)
+
+X0001
+118. Jak nazywa się kryterium wyboru najlepszej ścieżki (best path) przez ruter?
+Szybkość łącza
+Liczba przeskoków
+Koszt połączenia
+Metryka
+
+X0011
+119. Adresacja pełnoklasowa (classfull) ma następujące cechy: (wybierz dwie)
+Zazwyczaj dopasowujemy maskę sieci do liczby urządzeń w podsieci stosując technikę VLSM
+Zazwyczaj adresy klasy C agregujemy, stosując maski krótsze od 24 bitów
+W sieciach używających tej adresacji do podziału na podsieci używamy tej samej maski
+Największy zakres adresyowy w jednej sieci jest odgraniczony maską domyślną o długości 8, 16 lub 24 bity
+
+X001101
+120. Przełączniki pomagają łagodzić zatory w sieci (Alleviating Network Congestion) przez: (wybierz trzy)
+Powszechnie stosowanie światłowodowych portów o szybkości 10000000 b/s
+Stosowanie zaawansowanych protokołów wyboru trasy
+Udostępnianie portów o dużej szybkości
+Umożliwianie komunikacji full-duplex pomiędzy urządzeniami
+Dzielenie ramek na mniejsze
+Ułatwianie segmentacji sieci lokalnej na osobne domeny kolizyjne
+
+X001110
+121. Gdy pakiet wędruje z sieci do sieci, to... (wybierz 3)
+Adres docelowy pakietu jest zmieniany w każdym ruterze
+Pole TTL jest dekrementowane o 3 w każdym ruterze
+Gdy pole TTL osiągnie wartość zero, pakiet jest gubiony
+Adres źródłowy i docelowy nie są nigdy zmieniane
+Adres źródłowy i docelowy MAC jest zmieniany w każdym ruterze
+Adres źródłowy pakietu jest zmieniany w każdym ruterze
+
+X1000
+122. Co zostanie użyte podczas wyboru rutera DR/BDR w protokole OSPF, kiedy okaże się, że rutery mają identyczne priorytety interfejsu OSPF?
+identyfikator rutera
+najniższy koszt interfejsu
+najniższy adres IP interfejsu
+najwyższy numer procesu OSPF
+
+X0001
+123. Które rozwiązanie służące dynamicznemu przypisaniu adresów IPv6 do hostów jest alternatywą do DHCPv6?
+EUI-64
+ARP
+ICMPv6
+SLAAC
+
+X0001
+124. Oblicza najlepszą ścieżkę do każdej sieci docelowej:
+Hello
+Baza danych
+LSA
+SPF
+
+X0100
+125. Powoduje utworzenie i utrzymywanie przyległości z sąsiednimi urządzeniami:
+SPF
+Hello
+Baza danych
+LSA
+
+X1000
+124. Opis interfejsu i jego powiązań z innymi ruterami:
+Baza danych
+Hello
+OSPF
+LSA
+
+X0001
+127. Inicjowane w przypadku wystąpienia zmiany w topologii:
+SPF
+Hello
+Baza danych
+LSA
+
+X10
+128. Jaki rodzaj połączenia zostanie zrealizowany, gdy jeden z portów jest w trybie Dynamic Auto, a drugi Dynamic auto?
+Access
+Trunk
+
+X01
+129. Jaki rodzaj połączenia zostanie zrealizowany, gdy jeden z portów jest w trybie Dynamic Auto, a drugi Trunk?
+Access
+Trunk
+
+X0001
+13. VLAN, którego ramki na łączu typu trunk nie są oznakowane nazywamy : Wybierz jedną odpowiedź
+voice VLAN
+managementVLAN
+default VLAN
+native VLAN
+
+X01
+130. Jaki rodzaj połączenia zostanie zrealizowany, gdy jeden z portów jest w trybie Dynamic Auto, a drugi Dynamic desirable?
+Access
+Trunk
+
+X10
+131. Jaki rodzaj połączenia zostanie zrealizowany, gdy jeden z portów jest w trybie Dynamic Auto, a drugi Access?
+Access
+Trunk
+
+X0001
+132. Administator skonfigurowal router pwr do inter-VLAN routing używajać powyższych poleceń jaki rodzaj portu jest wymaganay na przełączniku aby po przełączeniu do niego intefejsu G0/0 routera Pwr możliwy był inter-VLAN routing
+access port
+routed port
+SVI
+trunk
+
+X1000
+14. Administrator ma skonfigurować DHCPv4 relay router i wprowadza następujące polecenia Router(config)# interface g0/0 Router(config-if)# ip address 10.0.1.1 255.255.255.0 Router(config-if)# no shutdown Router(config-if)# exit Router(config)# ip dhcp pool RELAY Router(dhcp-config)# end Jednak klient DHCP nie otrzymuje konfiguracji IP z serwera DHCP Jaka jest prawdopodobna przyczyna tej sytuacji? Wybierz jedną odpowiedź
+Nie wpisano polecenia ip helper address
+Adres IP jest niepoprawny dla użytej maski podsieci
+Pula adresów nie może nazywać się RELAY
+Ruter jest skonfigurowany jako klient DHCP
+
+X1000
+140. Jak nazywa siÄ kryterium wyboru najlepszej scieĹĽki (best path) przez ruter?
+Metryka
+Liczba przeskoków
+Koszt połączenia
+Szybkośc łącza
+
+X0001000000
+300. Administrator ma skonfiguraowac DHCPv4 relay router i wpowadza nastpujace poleceni int g0/0
+ip adores 10.0.1.1 255.255.255.0
+no sh
+exit
+ip dhcp pool RELAY
+end
+Jaednak kliniet DHCP nie otrzyumuje konfiguracji IP z serwera DHCP jaka jest prawdopodobna przyczyna tej sytuacji ?
+Pula adresu—w nie moýe nazywaŤ sie RELAY
+Adres IP jest niepoprawyny dla uzytyej maski podsieci
+Router jest skonfigurowany jako klinet DHCP
+NIe wpisana polecnia ip helper address
+
+X1001
+301. Które zdanie opisuje działania przełcznikaznik (wybierz dwa)
+Przełacznik LAN przenosi ramiki Ethernet na podstawie adresu docelowego ramiki Ethernet
+Kazdy przelacznik LAN obsluguje protokol OSPF
+Najszybsze przeloaczniki LAN przenosza ramki z opóźnieniem okolo 32 bitów
+PrzeĹ‚acznik podejmuje decyzje w opraciu o port wyjsciowy i port docelowy
+
+X0110
+302. Które cechy opisują domyślną trase (default static route) (wybierz dwie)
+Jest trasa która wybiera ruter w przypadku awari trasy
+jest prosta trasa statyczna z adresem IPv4 sieci docelowej 0.0.0.0/0
+jest trasa pasujaca do wszystkich pakietĂłw
+jest trasa do adresu pelnoklasowego np 172.16.0.0/16
+
+X100110
+303. Które z podanych zalecen naleza do najlepszych praktyk w projektowaniu sieci z przelanikami wybiezrz (wybierz 3)
+wlacz shut down wszystkie nieuĹĽywane porty
+uzywaj do zdalengo zarzadzania przelacznikami TELENT
+zawsze urzywaj VLAN 1 do zarzadzania przelacznikami
+odseparuj ruch zwiazany z zarzadzaniem od ruchu uĹĽytkownikow
+przenis wszystkie porty z VLAN 1 do nieuĹĽywanego VLANUu
+Ustawiaj tryb auto desirable na wszystkich poĹ‚aczneniach typu trunk
+
+X01100000
+304. Które zdanie poprawnie opisuje sekwencje polecen przedstwiana
+ipv6 route 2001:DB8:ACAD:2::/64 2001:DB8:ACAD:4::2
+ipv6 route 2001:DB8:ACAD:5::/64 2001:DB8:ACAD:4::2
+ipv6 route 2001:DB8:ACAD:3::/64 2001:DB8:ACAD:4::2
+tak skonstruowane trasy maja nazwe â€žDirectly Connected Static Routeâ€ť
+tak skonstruowane trasy nazywamy â€žNext-HOp Static Routeâ€ť
+Konifigurowany jest statyczny wybĂłr tras â€žStatic Routingâ€ť
+Jest to konifuracja trasy domyĹ›lnej â€žDefault routeâ€ť
+
+X0010
+305. Którą skalowana metoda musi była zastosowana aby obsłużyć inter-VLAN routing w sieci z przeł z 1000 lub wiecej VLANów?
+konfiguracja statycznych tras na przeĹ‚Ä…czniku warstwy 2
+przełącznik każdego fizycznego interfejsu do innego fizycznego przełąacznika w katakta
+wewnętrzny wybór tras(routing) na przełączniku warstwy 3
+przyĹ‚Ä…cznie portu routera do portu przeĹ‚acznika skonfigurowanego w trybie trunk â€¦
+
+X001011
+306. Typowe funkcje routera to(wybierz 3 ):
+Przełczenie ramek
+Przesyłanie pakiet—w pomi«dzy urz dzeniami koÄcowymi
+Podział sieci na domeny rozg¸oszeniowe
+Obsług protoko¸u SIP
+Przełączanie pakiet—w
+Zestawianie połączeń pomi«dzy uýytkownikami
+
+X1100
+307. Które zdania opisuja protokol CISCO DISCOVERY PROTOCOL CDP (wybierz dwa)
+CDP jest firmowym protoko¸em Csisco warstwy 2 uýywany do rozpoznania urzadzen Cisco
+Cisco rekomenduje wylaczenie CDP jezeli nie jest uzywany
+CDP jest protokolem dostpeowym wylcznie na LAN
+Prodokol CDP wymaga do swojego dzialania poprawnie skonfigurowanego ip
+
+X0100
+308. W sp—¸ce zaprojektowana siec tak aby pecety w wewnetrznej sieci mialy adresy przydzielane przez serwer DHCP i pakiety wysylae do internetu byly poddawane translacji przer ruter NAT Jakie rodzaje transalacji nalezy zastosowac aby pecety wysylajace pakiety do internetu przez ruter nie wyczerpaly unikalnych publicznych adresow IP z pili translacji?
+ARP
+Dynamic NAT
+Static NAT
+PAN
+
+X00110
+309. Kt—re z poniýszych okrećleÄ sa porawne dla list rozszerzonych extendet ACL (wybierz dwie)
+Extended ACL jest zakoÄczona niejawna regu¸ przepućc (permit)
+Wiele List ACL moýe byŤ uýyte na tym samym interfejscie pod warunkiem ze dotyczy tego samego
+kierunku
+Extended ACL sprawdza adres zrodla i adres docelowy
+Numer portu moze byc uzyt do uscislenia definicji ACL
+Extended ACL jest oznaczony liczbami z zakresu 1 do 99
+
+X0010
+310. Kt—ry zakres adres—w jest okreslony przy pomocy maski blankietowej 192.168.70.0 0.0.1.255
+od 192.168.70.0 do 192.168.70.255
+od 192.168.70.0 do 192.168.73.255
+od 192.168.70.0 do 192.168.71.255
+od 192.168.70.0 do 192.168.74.255
+
+X0110
+311. Adresacja peĹ‚noklasowa (classfull) ma nastÄ™pujÄ…ce cechy (wybierz dwie)
+Zazwyczaj doposowujemy maske sieci do liczby urzadzen podsieci stutusjac technike VLSM
+NAjwkeszy zakres adresowy w jednej sieci jest ograniczony maska domyslna o dlugosci 8,16,24
+W sieciach uzywajacych tej adrsacji do podzialu na podsieci uzywamy tej samej maski
+Zazwyczaj adresy klasy C agragujemy
+
+X0010
+312. Admiastrator sieci wydaje polecenie router ospf 100 co oznacza 100
+metryke
+numer systemu autonomicznego
+indetyfikator procesu
+dystans administacyjny
+
+X0100
+315. Które z poniższych zdań poprawnie opisuje rolę NAT w IPv6? Wybierz jedną odpowiedź
+NAT64 został porzucony przez IETF na rzecz NAT-PT
+Jest to tymczasowy mechanizm wspomagający migrację z adresów IPv4 do IPv6
+Przykładem zastosowania NAT dla IPv6 jest Dual stack
+NAT jest używany do konwersji adresów prywatnych IPv6 na adresy publiczne IPv6
+
+X0100
+316. Który zakres adresów jest określony przy pomocy maski blankietowej 172.16.32.0 0.0.15.255 Wybierz
+jedną odpowiedź
+od 172.16.32.O do 172.16.240.255
+od 172.16.32.O do 172.16.47.255
+Od 172.16.32.O do 172.16.63.255
+Od 172.16.32.O do 172.16.34.255
+
+X0100
+317.Komputer ma mieć dostęp do serwera www w innej sieci. Która z metod inter-VLAN routing pozwala łatwą konfigurację z użyciem rutera w warstwie 3 jednak kosztem przepustowości. Wybierz jedną odpowiedź
+wiele interfejsów fizycznych rutera podłączonych do przełącznika warstwy 2
+router on a stick
+interfejs typu trunk pomiędzy ruterem i przełącznikiem
+multilayer switch z włączonym rutowaniem
+
+X1000
+318. Która skalowalna metoda musi być zastosowana aby obsłużyć inter-VLAN routing w sieci z przełącznikami z 1000 lub więcej VLANów? Wybierz jedną odpowiedź
+wewnętrzny wybór tras (routing) na przełączniku warstwy 3
+przyłączenie portu rutera do portu przełącznika skonfigurowanego w trybie trunk, każdy VLAN bedzie przypisany do subinterfejsu rutera.
+przyłączenie każdego fizycznego interfejsu rutera do innego fizycznego portu przełącznika, w którym każdy port jest przypisany do innego VLANu
+konfiguracja statycznych tras na przełączniku warstwy 2
+
+X0100
+319. Użytkownik włącza swój komputer do nieużywanego do tej pory gniazdka i uzyskuje nieuprawniony dostęp do sieci
+Uniemożliwić fizyczny dostęp do urządzeń
+Security port
+Zastosowac SSH
+Wylaczyc DHCP Snopping
+
+X1000
+320. Sieć 192.168.11.0 /24 może połączyć się protokołem Telnet do 192.168.30.0 /24, jednak zgodnie z polityką bezpieczeństwa w firmie połączenie Telnet w powyższej relacji jest zabronione . ACL jest ustawione na R1 port GO/1 kierunek in Wybierz jedną odpowiedź Rysunek 2
+Zmienić regułę 10 na deny tcp 192.168.11.0 0.0.0.255 192.168.30.0 0.0.0.255 eq 23
+Zmienić regułę 10 na deny tcp 192.168.11.0 0.0.0.255 192.168.30.0 0.0.0.255
+Zmienić regułę 10 na deny tcp O. O. O. O 255.255.255.255 O. O. O. O 255.255.255.255
+Zmienić regułę 10 na deny tcp O. O. O. O 255.255.255.255 O. O. O. O 255.255.255.255 eq telnet
+
+X01000
+321. Użytkownik włącza swój komputer do nieużywanego do tej pory gniazdka i uzyskuje nieuprawniony dostęp do sieci
+Uniemożliwić fizyczny dostęp do urządzeń
+Security port
+Zastosowac SSH
+Wylaczyc DHCP Snopping
+Ustawić port przełącznika w tryb Error Disable
+
+X00100
+322. Osoba atakująca sieć może przechwycić hasła w sesji Telnet :
+Uniemożliwić fizyczny dostęp do urządzeń
+Security port
+Zastosowac SSH
+Wylaczyc DHCP Snopping
+Ustawić port przełącznika w tryb Error Disable
+
+X00001
+323. Osoba atakująca może przejąć przełącznik bez znajomości haseł dostępowych :
+Uniemożliwić fizyczny dostęp do urządzeń
+Security port
+Zastosowac SSH
+Wylaczyc DHCP Snopping
+Ustawić port przełącznika w tryb Error Disable
+
+X00010
+324. W sieci użytkownicy uzyskuja błędne dane adresowe zfałszywego serwera DHCP :
+Uniemożliwić fizyczny dostęp do urządzeń
+Security port
+Zastosowac SSH
+Wylaczyc DHCP Snopping
+Ustawić port przełącznika w tryb Error Disable
+
+X010010
+325. Z jakiego powodu administrator sieci miałby używać interfejsów pętli zwrotnej (loopback) podczas konfigurowania protokołu OSPF? (Wybierz dwie odpowiedzi) Wybierz jedną lub więcej:
+Adresy pętli zwrotnej (loopback) powodują włączenie funkcji sprawdzania błędów w protokole OSPF
+Pętle zwrotne to interfejsy logiczne, dlatego nigdy nie ulegają awarii
+Adres pętli zwrotnej (loopback) zastąpi skonfigurowaną wartość priorytetu routera
+Jako identyfikator routera OSPF mogą być używane tylko adresy pętli zwrotnej (loopback)
+Adres pętli zwrotnej (loopback) zostanie użyty jako identyfikator rutera, zastępując lokalny adres IP
+Interfejsy pętli zwrotnych służą do ustawiania metryk protokołu OSPF
+
+X0001
+326. W odniesieniu do powyższego obrazka 25. Co jest przyczyną błędu wyświetlonego podczas konfiguracji inter-VLAN routing na ruterze Select one:
+Interfejs glgO/O nie obsługuje inter-VLAN routing
+Nie zostało wpisane polecenie no shutdown
+Adresy na ruterze Politechnika są niepoprawne
+Zabrakło polecenia encapsulation dotlą 20
+
+X1000
+327. Ktore z poleceni spowoduje rozgłoszenie domyślenej trasy statycznej przez protokół OSPF ?
+default-information orginate
+redistribute static
+trasa domyslne sa tylko lokalne i nie moga byc rozglaszane przez OSPF
+network 0.0.0.0 0.0.0.0 area 0
+
+X1000
+328. Dopasuj komunikaty w porzadku odpowiadajacym przebiegowi transakcji DHCPv4:
+DHCPDISCOVER > DHCPOFFER > DHCPREQUEST > DHCPACK
+DHCPDISCOVER > DHCPOFFER > DHCPACK > DHCREQUEST
+DHCPACK > DHCREQUEST > DHCPDISCOVER > DHCPOFFER
+DHCPDISCOVER > DHCPACK > DHCPOFFER > DHCREQUEST
+
+X0010
+329. Co oznacza numer 15 w poleceniu encapsulation dot1q 15 native zastosowanym na routerze podczas konfiguracji subinterface? Wybierz jedna:
+numer podsieci
+Numer interface
+VLAN ID
+Numer subinterface
+
+X0100
+330. Ktore rozwiązanie służące dynamicznemu przypisaniu portow IPv6 do hostow jest alternatywa dla DHCPv6 Wybierz jedna odpowiedz:
+ARP
+SLAAC
+EUI64
+ICMPv6
+
+X0001
+331. Który zakres adresów jest określony przy pomocy maski blankietowej 192.168.70.0 0.0.1.255 Wybierz jedną odpowiedź
+od 192.168.70 . 0 do 192.168.73.255
+od 192.168.70 . O do 192.168.74.255
+od 192.168.70 . O do 192.168.70.255
+od 192.168.70 . O do 192.168.71.255
+
+X100
+332. Wypelnij puste pole. Uzyj formatu kropkowodziesietnego. Podaj maske blankietowa zwiazana z adresem podsieci 156.17.128.0/17
+0.0.127.255
+0.0.0.0
+156.17.128.0
+
+X0101
+333. W których z wymienionych rodzajow sieci routery OSPF nie będą desygnowane ? (wybierz 2)
+Wielodostep z rozglaszaniem
+Punkt-wiele punktow
+Wielodostep bez rozglaszania
+Punkt-punkt
+
+X100
+334. Wypelnij puste pole. Uzyj formatu kropkowodziesietnego.Podaj maske blankietowa zwiazana z adresem podsieci 192.168.12.96/27
+0.0.0.31
+192.168.12.96
+0.0.0.1
+
+X0100
+335. Mechanizm wysylania pakietow adresowanych do wybranego celu przez wiele interface routera nazywamy ? Wybierz jedno:
+Equal cost metric
+Equal cost load balancing
+Equal no cost balancing
+Equal Route balancing
+
+X11100010
+336. Typowe elementy, które znajdziemy zarówno w routerze jak i PC: (Wybierz 4)
+RAM
+ROM
+System operacyjny
+Klawiatura
+Monitor LCD
+Interface szeregowe V35
+CPU
+DVD
+
+X0110
+337. Poniższy wydruk przedstawia wszystkie trasy odczytane poleceniem show ip route. Które z poniższych opisów są prawdziwe dla tych danych: (wybierz 2) C 192.168.1.0/24 is directly connected, FastEthernet0/1 C 192.168.2.0/24 is directly connected, Serial0/2/0 S 192.168.3.0/24 [1/0] via 192.168.1.14
+Sieć 192.168.3.0 255.255.255.0 jest dostepna przez interface s0/2/0
+na routerze nie zdefiniowano trasy domylsnej
+interface FastEthernet0/1 jest interface wyjściowym do sieci 192.168.3.0/24
+trasa domyślna jest dostepna przez adres 192.168.1.14
+
+X1000
+338. Co oznacza skrot DTP w sieci przełączników:
+Dynamic trunking protocol
+Dekstop publishing
+nazwa szczepionki
+Dynamic transfer protocol
+
+X10
+339. Dopasuj do akronimu nazwy protokołu wyboru trasy właściwą kategorię: ISIS
+Link state Routing Protocol
+Distance Vector Routing Protocol
+
+X10
+340. Dopasuj do akronimu nazwy protokołu wyboru trasy właściwą kategorię: OSPFv3
+Link state Routing Protocol
+Distance Vector Routing Protocol
+
+X01
+341. Dopasuj do akronimu nazwy protokołu wyboru trasy właściwą kategorię: EIGRP
+Link state Routing Protocol
+Distance Vector Routing Protocol
+
+X1000
+342. W spółce zaprojektowano sieć tak aby pecety w wewnętrznej sieci miały adresy przydzielane przez serwery DHCP i pakiety wysyłane do Internetu były poddawane translacji przez ruter NAT. Jaki rodzaj translacji należy zastosować aby aby pecety wysyłające pakiety do Internetu przez ruter nie wyczerpały unikalnych publicznych adresów IP z puli translacji? Wybierzjedną odpowiedź .
+Dynamie NAT
+Static NAT
+ARP
+PAT
+
+X1000
+343. Dopasuj do akronimu nazwy protokołu wyboru trasy właściwą kategorię: RIPv2
+Link state Routing Protocol
+Distance Vector Routing Protocol
+
+X0010
+344. Jak nazywa się kryterium wyboru najlepszej sciezki (Best path) przez router ? (wybierz 1)
+liczba przeskokow
+koszt poloczenia
+metryka
+szybkość lacza
+
+X110000
+345. Z jakiego powodu administrator sieci mialby używać interface petli zwrotnej (loopback) podczas konfigurowania protokolu OSPF (Wybierz 2):
+petle zwrotne to interface logiczne
+adrespetli zwrotnej (loopback) zostanie uzyty jako identyfikator routera zastępując lokalny adres IP
+adresy petli zwrotnej (loopback) powoduja wlaczenia funkcji sprawdzania bledow w protokole OSPF
+interfejsy petli zwrotnej sluza do ustawiania metryk protokolu OSPF
+adres petli zwrotnej (loopback)zastapi skonfigurowana wartość priorytetu routera
+jako identyfikator routera OSPF
+
+X1000
+346. Co zostanie uzyte podczas wyboru routera DR/BDR w protokole OPSF kiedy okaze się, ze routery maja identyczne priorytety interfejsu OSPF ? (Wybierz 1)
+identyfikator routera
+najniższy koszt interface
+najnizszy adres IP protokolu
+najwyższy numer procesu OSPF
+
+X0011
+347. Które zdania opisuja właściwości Content Addressable Memory (CAM) (Wybierz 2):
+CAM jest tablicą wyboru trasy protokołu EIGRP
+CAM zawiera informacje o kierunku do celu i odległości
+odwzorowania adresu MAC urzadzenia na port przelacznika sa przechowywane w CAM
+CAM jest specjalnym rodzajem pamieci uzywanym do bardzo szybkiego wyszukiwania
+
+X10
+348. OSPF
+protokol bezklasowy
+protokol pelnoklasowy
+
+X01
+349. IGRP
+protokol bezklasowy
+protokol pelnoklasowy
+
+X10
+350. EIGRP
+protokol bezklasowy
+protokol pelnoklasowy
+
+X01
+351. RIPv1
+protokol bezklasowy
+protokol pelnoklasowy
+
+X1000
+352. Jaki jest cel wydania polecenia bandwidth 56 na interface szeregowym routera z działającym protokołem OSPF ? (Wybierz 1)
+zmienna wartość kosztu łącza
+zmienia przepustowość interface na 56kbps
+to jest tylko opis
+jest konieczne dla sygnału DUAL
+
+X11010
+353. Które z poniższych sformułowań dotyczących protokołów wyboru trasy korzystających algorytm rutowania typu stan-łącza są prawdziwe? (Wybierz trzy odpowiedzi).
+Tworzą złożone bazy danych topologii sieci i korzystają z nich
+Są znane pod ogólną nazwą protokołów SPF
+Są uważane za dobre rozwiązania dla małych sieci wyposażonych w niedrogie rutery
+Są oparte na algorytmie Dijkstry
+Uzyskują informacje o trasach i wysyłają je do bezpośrednio połączonych sąsiadów
+
+X1010
+354. Które zdania opisują protokół Cisco Discovery Protocol (CDP) ? (Wybierz 2)
+CDP jest firmowym protokołem warstwy 2 używanym do rozpoznania innych bezpoś. Podłączonych urządzeń cisco
+cisco rekomenduje wyłączenie CDP jeśli nie jest używany
+protokół CDP wymaga do swojego działania poprawnie skonfigurowanego adresu IP
+CDP jest protokołem dostępnym wyłącznie na przełącznikach LAN
+
+X100
+355. Ruter obsługuje warstry 1,2,3 modelu ISO OSI. Dopasuj cechy do czynności typowych dla danej warstwy: Odbiór sygnału z zakodowanymi bitami
+warstwa 1
+warstwa 2
+warstwa 3
+
+X010
+356. Ruter obsługuje warstry 1,2,3 modelu ISO OSI. Dopasuj cechy do czynności typowych dla danej warstwy: Dekapsułkowanie pakietów
+warstwa 1
+warstwa 2
+warstwa 3
+
+X1001
+357. Które zdania definiują sieć VLAN (wybierz 2):
+hosty pracujące w jednym VLANie nie wiedzą , że istnieją inne vlany
+VLANy nie są od siebie odizolowane i pakiety mogą być przenoszone pomiędzy nimi bez przeszkód
+VLAN jest fizycznym podziałem sieci warstwy 1
+każdy VLAN jest domeną rozgłoszeniową zazwyczaj tożsamą z siecią IP
+
+X001
+358. Ruter obsługuje warstry 1,2,3 modelu ISO OSI. Dopasuj cechy do czynności typowych dla danej warstwy: Decyzja o wyborze trasy na podstawie docelowego adresu IP
+warstwa 1
+warstwa 2
+warstwa 3
+
+X1010
+359. Które zdania opisują poprawnie pojęcie domeny rozgłoszeniowej (Broadcast Romains) w sieci z przełącznikami ? (Wybierz 2)
+wszystkie porty przełącznika domyślnie są w tej samej domenie rozgłoszeniowej
+domena rozgłoszeniowa i domena kolizyjna to różne nazwy tego samego obszaru
+rozgłoszenia (broadcast) sa przesylane do wszystkich portow dostępowych przelacznika nawet gdy naleza do roznych…
+przelacznik rozsyla ramki rozgloszeniowe do wszystkich portow , zatem przelaczniki nie przerywaja domen rozgloszeniow
+
+X0101
+360. Które cechy opisuja domyslna trase (default static route) ? (Wybierz 2)
+jest trasa która wybiera router w przypadku awarii trasy podstawowej
+jest trasa pasujaca do wszystkich pakietow
+jest trasa do adresu pelnoklasowego np. 172.16.0.0/16
+jest prosta trasa statyczna z adresem IPv4 sieci docelowej 0.0.0.0/0
+
+X010101
+361. Które zdania opisują MAC Adress Flooding? (wybierz 3)
+To pojęcie jest związane ze znanym błędem techniki przełączania CutThrough
+Może być zagrożeniem dla bezpieczeństwa sieci
+Nie występuje gdy stosujemy technikę przełączania StoreandForward
+Jest zjawiskiem występującym gdy w tablicy CAM nie jest zapisany port odbiorcy ramek
+Nie występuje w sieciach podzielonych na VLANy
+W czasie MAC Address Flooding ramki są rozsyłane na wszystkie porty przełącznika
+
+X1001
+362. Które zdania opisuja dzialanie przelacznika ? (Wybierz 2)
+przelacznik LAN przenosi ramki Ethernet na podstawie adresu docelowego ramki Ethernet
+najszybsze przelaczniki LAN Przenosza ramki z opoznieniem około 32 bitow
+każdy przelacznik LAN obsluguje protokol OSPF
+przelacznik podejmuje decyzje w oparciu o port wejściowy i port docelowy
+
+X1000
+363. Gdy konfigurujemy NAT na ruterze Cisco, co oznacza inside local IP address ? (wybierz 1):
+jest to wewnętrzny adres IP hosta, który jest widoczny wewnątrz naszej sieci
+jest to wewnętrzny adres IP hosta, który jest widoczny dla sieci zewnętrznych
+jest to skonfigurowany adres IP przypisany do hosta na zewnątrz naszej sieci
+jest to adres IP zewnętrznego hosta, który jest widoczny wewnątrz naszej sieci
+
+X0100
+364. Administrator ma skonfigurować DHCPv4 relay router i wprowadza następujące polecenia Router(config)# interface g0/0 Router(config-if)# ip address 10.0.1.1 255.255.255.0 Router(config-if)# no shutdown Router(config-if)# exit Router(config)# ip dhcp pool RELAY Router(dhcp-config)# end Jednak klient DHCP nie otrzymuje konfiguracji IP z serwera DHCP Jaka jest prawdopodobna przyczyna tej sytuacji? Wybierzjedną odpowiedź
+Ruter jest skonfigurowany jako klient DHCP
+Nie wpisano polecenia ip helper address
+Adres IP jest niepoprawny dla użytej maski podsieci
+Pula adresów nie może nazywać się RELAY
+
+X00011
+365. Które z poniższych okreslen sa poprawne dla list rozszerzonych extended ACL (Wybierz 2)
+numer portu może być uzyty do uściślenia definicji ACL
+extender ACL jest zakonczona niejawna regula przepusc (permit)
+extender ACL jest oznaczona liczbami z zakresu od 1 do 99
+extender ACL sprawdza adres zrodla i adres docelowy
+wiele list ACL może być uzyte na tym samym interfejsie pod warunkiem, ze dotyczy tego samego kierunku ruchu
+
+X0100
+366. Który z poniższych adresow w zapisie z prefixem jest uzywany w IPv6 jako domyslna trasa statyczna (default route) (Wybierz 1):
+FF02::1/8
+::/0
+0.0.0.0/0
+::1/128
+
+X001110
+367. Które z podanych zalecen naleza do najlepszych praktyk w projektowaniu sieci z przelacznikami (wybierz 3):
+ustawiaj tryb autodesirable na wszystkich przelacznikach typu trunk
+uzywaj do zdalnego zarzadzania protokolu TELNET
+wylacz (shut down) wszystkie nieuzywane porty
+odseparuj ruch związany z zarzadzaniem od ruchu użytkowników
+przenieś wszystkie porty z VLAN 1 do nieuzywanego VLANu
+zawsze uzywaj vlan 1 do zaradzania przelacznikami
+
+X0110
+368. Protokoły dynamicznego wyboru trasy (dynamic routing) służą do: (Wybierz 2)
+ręcznego wprowadzania tras przez administratora w sieci
+znajdowania nowej najlepszej ścieżki gdy aktualna ścieżka przestaje być dostępna
+zarządza aktualną informacją o trasach
+zabezpiecza bramy ostatniej szansy (gateway of last resort) dla sieci końcowej (stub Network)
+
+X0101
+369. Które zdania poprawnie opisują sekwencję poleceń przedstawioną na obrazku: (wybierz dwie) ip route 172.16.1.0 255.255.255.0 s0/0/0 ip route 192.168.1.0 255.255.255.0 s0/0/0 ip route 192.168.2.0 255.255.255.0 s0/0/0
+Tak skonstruowane trasy nazywamy “NextHop Static Route”
+Tak skonstruowane trasy mają nazwę “Directly Connected Static Route”
+Jest to konfiguracja trasy domyślnej “Default Route”
+Konfigurowany jest statyczny wybór tras “Static Routing”
+
+X01000
+370. Którego z poniższych typów pakietów nie znajdziemy w protokole OSPF (Wybierz 1):
+LSR
+LRU
+DBD
+Hello
+LSAck
+
+X01001
+371. Jakie są korzyści ze stosowania NAT (Wybierz 2):
+sprawia, że tunelowanie z użyciem IPsec jest mniej skomplikowane
+pozwala zaoszczędzić adresy publiczne
+sprawia,że usuwanie błędów rutowania jest łatwiejsze
+zwiększa wydajność rutowania
+poprawia prywatność i bezpieczeństwo sieci
+
+X011100
+372. Typowe funkcje routera (wybierz 3):
+przełączanie pakietow
+zestawienie połączeń miedzy użytkownikami końcowymi
+przesyłanie pakietów między urządzeniami końcowymi
+podział sieci na domeny rozgłoszeniowe
+przełączanie ramek
+obsługa protokołu SIP
+
+X1000
+373. Które polecenia powinny być uzyte na interface routera aby ustawic na nim klienta stateful DHCPv6? (Wybierz 1)
+ipv6 address dhcp
+ipv6 enable
+ipv6 address autoconfigure
+ipv6 dhcp address stateful
+
+X0101
+374. Które zdania opisuja właściowsci sieci LAN z przełacznikami ? (wybierz 2)
+obsługuje wyłącznie protokół IP
+pozwala na większą elastyczność
+ułatwia powstawanie domen kolizyjnych
+zapewnia wsparcie dla usługi jakości (np. telefonia IP)
+
+X00001
+375. Jaki czynnik bierze pod uwagę implementacja firmy CISCO protokołu OSPF, aby wybrać najlepszą trasę? Wybierz jedną odpowiedź
+najmniejszą liczbę przeskoków
+czas działania
+obciążenie
+niezawodność
+szerokość pasma
+
+X0010
+376. Który scenariusz ma zastosowanie gdy na interface WAN routera konfigurujemy klienta DHCP aby otrzymać dynamiczne IP: (Wybierz 1)
+router jest skonfigurowany jako serwer DHCP
+Jest to router szerokopasmowy w domu lub sieci SOHO
+router jest też bramą do sieci LAN
+gdy serwer WWW udostępniamy publicznie jest dołączony do routera
+
+X010110
+377. Gdzie zazwyczaj stosujemy statyczny wybór tras (static routing) (Wybierz 3):
+tam gdzie należy utworzyć zapasową trasę na wypadek awarii trasy podstawowej
+w sieciach szybko rosnących ze złożoną topologią połączeń
+tam gdzie nie wymaga od administratora znajomości topologii zarządzanej sieci
+w mniejszych sieciach
+w sieciach końcowych (sub network)
+w dużych sieciach
+
+X0100
+378. W jaki sposób komputer podczas procesu kapsułkowania określa czy pakiet jest kierowany do hosta innej sieci ? (Wybierz 1)
+wysyła broadcast do lokalnego segmentu aby otrzymać jakąkolwiek odpowiedź
+sprawdza ARP cache w poszukiwaniu docelowego adresu MAC
+pyta serwer DNS o dane odległego hosta
+wykonuje operacje AND na docelowym adresie IP i na swojej masce podsieci
+
+X0100
+379. Komputer ma mieć dostęp do serwera WWW innej sieci. Która za metod InterVLAN routing pozwala uzyskac najwieksza przepustowość w warstwie 3 i jednoczesnie udostępni brame domyslna dla komputera? (Wybierz 1)
+multilayer switch z wlaczonym rutowaniem
+interfejs typu trunk pomiedzy routerem i przelacznikiem
+wiele interfejsow fizycznych routera podlaczonych do przelacznika warstwy 2
+router on a stick
+
+X0011
+380. Które zdania opisuja magistrale VLAN (VLAN Trunk) (Wybierz 2)
+port magistrali (VLAN trunk port) jest zawsze przypisany do VLAN 1
+magistrala VLAN (VLAN trunk) ustanowiona pomiędzy przełącznikami pozwala na łączność pomiedzy dwoma komputerami wlaczanymi na portach
+magistrala VLAN (VLAN trunk) przenosi wiecej niż jeden VLAN
+magistrala VLAN (VLAN trunk) jest zazwyczaj ustawnawiana pomiedzy przelacznikami aby skomunikowac urzadzenia w tym samym VLANie nawet…
+
+X010010
+381. Zagrozenia dla bezpieczeństwa charakterystyczne dla sieci przełączników (Wybierz 2) :
+Buffer overflow
+double tagging attack
+Network security reconnaissance attaca
+switch password attack
+switch spoofing attack
+phishing attack
+
+X1100
+382. Które zdania opisują poprawinie znakowanie ramek w magistrali? (wybierz 2)
+protokół IEEE 802 1Q dodaje znacznik (flag) na początku każdej ramki przesyłanej przez magistralę (VLAN Trunk)
+Znacznik (flag) raki pozwala przełącznikom na identyfikację dla którego VLAnu należą ramki
+jedynym protokołem używającym znaczników jest protokół IEEE 802 1Q
+Znakowanie ramek jest procesem polegającym na dodaniu nagłówka identyfikującego VLAN do ramki
+
+X1010
+383. Protokoły dynamicznego wyboru trasy (dynamic routing) (Wybierz 2):
+zarządzania aktualną informacją o trasach
+ręcznego wprowadzania tras przez administratora sieci
+znajdowania nowej najlepszej ścieżki gdy aktualna ścieżka przestaje być dostępna
+zabezpieczenia bramy ostatniej szansy (Gateway of Last Resort) dla sieci końcowej (stub Network)
+
+X1010
+384. Classless Interdomain Routing (CIDR) umożliwia (Wybierz 2):
+sumowanie tras (route summarization) do supersieci (supernetting)
+automatyczną agregację na granicy sieci z użyciem maski domyślnej w adresacji pełno klasowej
+sumowanie tras z maską krótszą niż maska domyślna w adresacji pełnoklasowej
+stosowanie przy podziale na podsieci masek tej samej długości
+
+X1010
+385. Które określenia są poprawne w przypadku list kontroli dostępu (ACL) dla IPv6 (Wybierz 2):
+Listy IPv6 ACL aktywujemy poleceniem ipv6 trafficfilter na wybranym interface
+Listy IPv6 ACL podobnie jak w IPv4 dzielimy na standard i extended
+Listy IPv6 ACL zawierają dodatkowe ukryte reguły Permit icmp Any Any Ndna Per mit icmp Any Any Ndns
+Listy IPv6 ACL definiujemy stosując maski blankietowe cztery razy dłuższe niż w IPv4
+
+X110010
+386. Przełączniki pomagają łagodzić zatory w sieci (Alleviating NetWork Congestion) przez (wybierz trzy): Wybierz jedną lub więcej:
+Udostępnianie portów o dużej szybkości
+Ułatwianie segmentacji sieci lokalnej na osobne domeny kolizyjne
+Dzielenie ramek na mniejsze
+Stosowanie zaawansowanych protokołów wyboru trasy
+Umożliwianie komunikacji full-duplex pomiędzy urządzeniami
+Powszechne stosowanie światłowodowych portów o szybkości 10000000 b/s
+
+X1010
+387. Które określenia są poprawne w przypadku list kontroli dostępu (ACL) dla IPv6 (Wybierz 2):
+Listy IPv6 ACL aktywujemy poleceniem ipv6 trafficfilter na wybranym interface
+Listy IPv6 ACL podobnie jak w IPv4 dzielimy na standard i extended
+Listy IPv6 ACL zawierają dodatkowe ukryte reguły Permit icmp Any Any Ndna Per mit icmp Any Any Ndns
+Listy IPv6 ACL definiujemy stosując maski blankietowe cztery razy dłuższe niż w IPv4
+
+X0101
+388. W którym z wymienionych rodzajów sieci rutery OSPF nie bedą desygnowane ( Designated router) ? ( Wybierz 2 odpowiedzi )
+Wielodostep z rozgłaszaniem
+Punkt-wiele punktów
+Wielodostęp bez rozgłaszania
+Punkt-punkt
+
+X0100
+389. Gdy konfigurujemy NAT na routerze CISCO, co oznacza inside local IP address ?
+jest to wewnętrzny adres IP hosta, który jest widoczny dla sieci zewnętrznych
+jest to wewnętrzny adres IP hosta, który jest widoczny wewnątrz naszej sieci
+jest to adres IP zewnętrznego hosta, który jest widoczny wewnątrz naszej sieci
+jest to skonfigurowany adres IP przypisany do hosta zewnątrz naszej sieci
+
+X0010
+390. W odniesieniu do powyższego obrazka. Administrtor skonfigurował ruter PWr do inter-VLAN routing uzywając powyższych poleceń. Jaki rodzaj portu jest wymagany naprzełączniku aby po przyłączeniu do niego interfejsu Gi0/0....(zdj 84.jpg)
+routed port
+SVI
+trunk
+access port
+
+X1100
+391. Protokoły dynamicznego wyboru trasy(dynamic routing) słuzą do: (wybierz dwie)
+Zarządzania aktualną informacją o trasie
+Znajdowania najlepszej scieżki gdy aktualna ścieżka przestaje być dostępna
+Ręcznego wprowadzania tras przez administratora sieci
+Zabezpieczenia bramy ostatniej szansy(gateway of Last Resort) dla sieci końcowej
+
+X0001
+392. Które polecenie realizuje poprawnie następującą politykę : Zarządzanie rutera R1 przezTelnet/SSH może
+być realizowane wyłącznie z adresu 10.1.1.1
+R1(config)# ip access-list 10 permit host 10.1.1.1 R1(config)#interface f0/0 R1(config)#ip access-group 10 in
+R1(config)# ip access-list 10 permit host 10.1.1.1 R1(config)#line vty 0 15 R1(config)#ip access-group 10 out
+R1(config)# ip access-list 10 permit host 10.1.1.1 0.0.0.0 R1(config)#line vty 0 15 R1(config)#ip accessgroup 10 in
+R1(config)# ip access-list 10 permit host 10.1.1.1 R1(config)#line vty 0 15 R1(config)#ip access-group 10 in
+
+X10
+393. Dopasuj opis do nazwy protokołu OSPF: Odlicza czas, po którym ruter uznaje, że sąsiad jest niedostepny
+Update interval
+Hello interval
+
+X01
+394. Dopasuj opis do nazwy protokołu OSPF: Odlicza czas, pomiędzy pakietami HELLO
+Update interval
+Hello interval
+
+X1000
+395. Który scenariusz ma zastosowanie gdy na interfejsie WAN rutera konfigurujemy klienta DHCP aby otrzymać dynamicznie adres IP z serwera operatora(ISP)?
+Jest to ruter szerokopasmowy w domu lub sieci SOHO
+Router jest też bramą do sieci LAN
+Router jest skonfigurowany jako klient DHCP
+Gdy serwer www udostępniany publicznie jest podłączony do routera
+
+X0100
+396. Administrator sieci wydaje polecenie router ospf 100. Co oznacza liczba 100 w tym poleceniu? Wybierz jedną odpowiedź
+dystans administracyjny
+identyfikator procesu
+metrykę
+umer systemu autonomicznego
+
+X111000
+397. Które z podanych zaleceń należą do najlepszych praktyk w projektowaniu sieci z przełącznikami(wybierz 3)
+Wyłącz(shut down)wszystkie nieużywane porty
+Odseparuj ruch związany z zarządzaniem od ruchu użytkowników
+Przenieś wszystkie porty z VLAN 1 do nieużywanego VLANu
+Ustaw tryb auto desirable na wszystkich połączeniach typu trunk
+Zawsze używaj VLAN 1 do zarzadzania przełącznikami
+Uzywaj do zdalnego zarządzania przłącznikami protokołu TELNET
+
+X10000
+398. Podaj maske blankietową związaną z adresem podsieci 192.168.12.96/27
+0.0.0.31
+0.0.1.255
+255.255.255.224
+0.0.0.224
+0.0.0.0
+
+X00110
+399. Które zdania opisują trasy statyczne?
+Są one tworzone w trybie konfiguracji interfejsu( interface configuration mode)
+Są automatycznie aktualizowane gdy interfejs jest rekonfigurowany lub wyłączony
+Są identyfikowane w tablicy wybory trasy (routing table) przez prefiks S
+Wymagają ręcznej konfiguracji aby dopasować je do zmian w sieci
+Są generowane automatycznie po wpisaniu bramy domyślnej na ruterze
+
+X0001
+400. W odniesieniu do powyższego obrazka ( 93.jpg). Co jest przyczyną błędu wyświetlanego podczas konfiguracji inter-VLAN routing na routerze Politechnika
+Adresy na routerze Politechnika są niepoprawne
+Interfejs gig0/0 nie obsługuje inter-VLAN routing
+Nie zosatło wpisane polecenie: no shutdown
+Zabrakło polecenia encapsulation dot1q 20
+
+X0010
+401. Który zakres adresów jest określony przy pomocy maski blankietowej 192.168.70.0 0.0.1.255
+od 192.168.70.0 do 192.168.73.255
+od 192.168.70.0 do 192.168.71.254
+od 192.168.70.0 do 192.168.71.255
+od 192.168.70.0 do 192.168.70.255
+
+X1010
+402. Które zdania popranie opisują znakowanie ramek w magistrali (frame tagging)? (wybierz dwa)
+Znacznik (tag) ramki pozwala przełącznikom na identyfiakcję do którego VLANu należą ramki
+Znakowanie ramek (frame tagging) jest procesem polegającym na dodaniu do nagłówka indetyfikującego VLAn do ramki
+Protokół IEEE 802.1Q dodaje znacznik (tag) na początku każdej ramki przesyłanej przez magistrale ( VLAN trunk)
+Jedynym protokołem używającym znaczników (tags) jest protokół IEEE 802.1Q
+
+X1010
+403. Które cechy opisuja domyślną trasę (default static route)? (wybierz dwie)
+jest trasą pasującą do wszystkich pakietów
+jest trasą, którą wybierze router w przypadku awarii trasy podstawowej
+jest prostą trasą statyczną z adresem IPv4 sieci docelowej 0.0.0.0/0
+jest trasą dp adresu pełnoklasowego np. 172.16.0.0/16
+
+X1100
+404. Które określenia są poprawne w przypadku listy kontroli dostepu( ACL) dla IPv6? ( wybierz dwie)
+Listy IPv6 ACL aktywujemy poleceniem ipv6 traffic-filter na wybranym interfejsie
+Listy IPv6 ACL zawierają dodatkowe ukryte reguły : permit icmp any any nd-na
+Listy IPv6 ACL podobnie jak w IPv4 dzielimy na standart i extended
+Listy IPv6 ACL definiujemy stosując maski blankietowe cztery razy dłuższe niz w IPv4
+
+X1100
+405. Classiess Interdomain Routing ( CIDR ) umożliwia: ( wybierz dwie)
+sumowanie tras ( route summarization) do supersieci (supernetting)
+sumowanie tras z maską krótszą niz maska domyślną w adresacji pełnoklasowej
+stosowanie przy podziale na podsieci masek tej samej długości
+automatyczną agregację na granicy sieci z uzyciem maski domyślnej w adresacji pełnoklasowej
+
+X0001
+W jaki sposób komputer podczas procesu kapsułkowania, określa czy pakiet jest kierowany do hosta w innej sieci?
+Pyta serwer DNS o dane odległego hosta
+Wykonuje operację AND na docelowym adresie IP i swojej masce podsieci
+Wysyła broadcast do lokalnego segmentu aby otrzymać jakąkolwiek odpowiedż
+Sprawdza ARP cache w poszukiwaniu docelowego adresu MAC
