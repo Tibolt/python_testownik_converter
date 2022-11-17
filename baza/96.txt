@@ -1,6 +1,8 @@
 X010101
 361. Które zdania opisują MAC Adress Flooding? (wybierz 3)
-jest trasa która wybiera router w przypadku awarii trasy podstawowej
-jest trasa pasujaca do wszystkich pakietow
-jest trasa do adresu pelnoklasowego np. 172.16.0.0/16
-jest prosta trasa statyczna z adresem IPv4 sieci docelowej 0.0.0.0/0
+To pojęcie jest związane ze znanym błędem techniki przełączania CutThrough
+Może być zagrożeniem dla bezpieczeństwa sieci
+Nie występuje gdy stosujemy technikę przełączania StoreandForward
+Jest zjawiskiem występującym gdy w tablicy CAM nie jest zapisany port odbiorcy ramek
+Nie występuje w sieciach podzielonych na VLANy
+W czasie MAC Address Flooding ramki są rozsyłane na wszystkie porty przełącznika

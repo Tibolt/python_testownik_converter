@@ -1,6 +1,8 @@
 X00110
 309. Kt—re z poniýszych okrećleÄ sa porawne dla list rozszerzonych extendet ACL (wybierz dwie)
-ARP
-Dynamic NAT
-Static NAT
-PAN
+Extended ACL jest zakoÄczona niejawna regu¸ przepućc (permit)
+Wiele List ACL moýe byŤ uýyte na tym samym interfejscie pod warunkiem ze dotyczy tego samego
+kierunku
+Extended ACL sprawdza adres zrodla i adres docelowy
+Numer portu moze byc uzyt do uscislenia definicji ACL
+Extended ACL jest oznaczony liczbami z zakresu 1 do 99

@@ -1,5 +1,6 @@
 X1010
 359. Które zdania opisują poprawnie pojęcie domeny rozgłoszeniowej (Broadcast Romains) w sieci z przełącznikami ? (Wybierz 2)
-warstwa 1
-warstwa 2
-warstwa 3
+wszystkie porty przełącznika domyślnie są w tej samej domenie rozgłoszeniowej
+domena rozgłoszeniowa i domena kolizyjna to różne nazwy tego samego obszaru
+rozgłoszenia (broadcast) sa przesylane do wszystkich portow dostępowych przelacznika nawet gdy naleza do roznych…
+przelacznik rozsyla ramki rozgloszeniowe do wszystkich portow , zatem przelaczniki nie przerywaja domen rozgloszeniow

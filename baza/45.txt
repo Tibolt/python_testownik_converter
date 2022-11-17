@@ -1,6 +1,6 @@
 X0100
 308. W sp—¸ce zaprojektowana siec tak aby pecety w wewnetrznej sieci mialy adresy przydzielane przez serwer DHCP i pakiety wysylae do internetu byly poddawane translacji przer ruter NAT Jakie rodzaje transalacji nalezy zastosowac aby pecety wysylajace pakiety do internetu przez ruter nie wyczerpaly unikalnych publicznych adresow IP z pili translacji?
-CDP jest firmowym protoko¸em Csisco warstwy 2 uýywany do rozpoznania urzadzen Cisco
-Cisco rekomenduje wylaczenie CDP jezeli nie jest uzywany
-CDP jest protokolem dostpeowym wylcznie na LAN
-Prodokol CDP wymaga do swojego dzialania poprawnie skonfigurowanego ip
+ARP
+Dynamic NAT
+Static NAT
+PAN

@@ -1,4 +1,6 @@
 X1000
 395. Który scenariusz ma zastosowanie gdy na interfejsie WAN rutera konfigurujemy klienta DHCP aby otrzymać dynamicznie adres IP z serwera operatora(ISP)?
-Update interval
-Hello interval
+Jest to ruter szerokopasmowy w domu lub sieci SOHO
+Router jest też bramą do sieci LAN
+Router jest skonfigurowany jako klient DHCP
+Gdy serwer www udostępniany publicznie jest podłączony do routera

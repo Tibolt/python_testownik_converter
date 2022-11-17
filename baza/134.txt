@@ -1,7 +1,7 @@
 X00110
 399. Które zdania opisują trasy statyczne?
-0.0.0.31
-0.0.1.255
-255.255.255.224
-0.0.0.224
-0.0.0.0
+Są one tworzone w trybie konfiguracji interfejsu( interface configuration mode)
+Są automatycznie aktualizowane gdy interfejs jest rekonfigurowany lub wyłączony
+Są identyfikowane w tablicy wybory trasy (routing table) przez prefiks S
+Wymagają ręcznej konfiguracji aby dopasować je do zmian w sieci
+Są generowane automatycznie po wpisaniu bramy domyślnej na ruterze

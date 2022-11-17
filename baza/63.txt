@@ -1,6 +1,6 @@
 X1000
 328. Dopasuj komunikaty w porzadku odpowiadajacym przebiegowi transakcji DHCPv4:
-default-information orginate
-redistribute static
-trasa domyslne sa tylko lokalne i nie moga byc rozglaszane przez OSPF
-network 0.0.0.0 0.0.0.0 area 0
+DHCPDISCOVER > DHCPOFFER > DHCPREQUEST > DHCPACK
+DHCPDISCOVER > DHCPOFFER > DHCPACK > DHCREQUEST
+DHCPACK > DHCREQUEST > DHCPDISCOVER > DHCPOFFER
+DHCPDISCOVER > DHCPACK > DHCPOFFER > DHCREQUEST

@@ -1,6 +1,6 @@
 X1000
 14. Administrator ma skonfigurować DHCPv4 relay router i wprowadza następujące polecenia Router(config)# interface g0/0 Router(config-if)# ip address 10.0.1.1 255.255.255.0 Router(config-if)# no shutdown Router(config-if)# exit Router(config)# ip dhcp pool RELAY Router(dhcp-config)# end Jednak klient DHCP nie otrzymuje konfiguracji IP z serwera DHCP Jaka jest prawdopodobna przyczyna tej sytuacji? Wybierz jedną odpowiedź
-access port
-routed port
-SVI
-trunk
+Nie wpisano polecenia ip helper address
+Adres IP jest niepoprawny dla użytej maski podsieci
+Pula adresów nie może nazywać się RELAY
+Ruter jest skonfigurowany jako klient DHCP

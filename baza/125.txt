@@ -1,6 +1,6 @@
 X0010
 390. W odniesieniu do powyższego obrazka. Administrtor skonfigurował ruter PWr do inter-VLAN routing uzywając powyższych poleceń. Jaki rodzaj portu jest wymagany naprzełączniku aby po przyłączeniu do niego interfejsu Gi0/0....(zdj 84.jpg)
-jest to wewnętrzny adres IP hosta, który jest widoczny dla sieci zewnętrznych
-jest to wewnętrzny adres IP hosta, który jest widoczny wewnątrz naszej sieci
-jest to adres IP zewnętrznego hosta, który jest widoczny wewnątrz naszej sieci
-jest to skonfigurowany adres IP przypisany do hosta zewnątrz naszej sieci
+routed port
+SVI
+trunk
+access port

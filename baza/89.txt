@@ -1,7 +1,6 @@
 X1010
 354. Które zdania opisują protokół Cisco Discovery Protocol (CDP) ? (Wybierz 2)
-Tworzą złożone bazy danych topologii sieci i korzystają z nich
-Są znane pod ogólną nazwą protokołów SPF
-Są uważane za dobre rozwiązania dla małych sieci wyposażonych w niedrogie rutery
-Są oparte na algorytmie Dijkstry
-Uzyskują informacje o trasach i wysyłają je do bezpośrednio połączonych sąsiadów
+CDP jest firmowym protokołem warstwy 2 używanym do rozpoznania innych bezpoś. Podłączonych urządzeń cisco
+cisco rekomenduje wyłączenie CDP jeśli nie jest używany
+protokół CDP wymaga do swojego działania poprawnie skonfigurowanego adresu IP
+CDP jest protokołem dostępnym wyłącznie na przełącznikach LAN

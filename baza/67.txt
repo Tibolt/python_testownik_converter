@@ -1,6 +1,5 @@
 X100
 332. Wypelnij puste pole. Uzyj formatu kropkowodziesietnego. Podaj maske blankietowa zwiazana z adresem podsieci 156.17.128.0/17
-od 192.168.70 . 0 do 192.168.73.255
-od 192.168.70 . O do 192.168.74.255
-od 192.168.70 . O do 192.168.70.255
-od 192.168.70 . O do 192.168.71.255
+0.0.127.255
+0.0.0.0
+156.17.128.0

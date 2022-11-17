@@ -1,6 +1,6 @@
 X0100
 389. Gdy konfigurujemy NAT na routerze CISCO, co oznacza inside local IP address ?
-Wielodostep z rozgłaszaniem
-Punkt-wiele punktów
-Wielodostęp bez rozgłaszania
-Punkt-punkt
+jest to wewnętrzny adres IP hosta, który jest widoczny dla sieci zewnętrznych
+jest to wewnętrzny adres IP hosta, który jest widoczny wewnątrz naszej sieci
+jest to adres IP zewnętrznego hosta, który jest widoczny wewnątrz naszej sieci
+jest to skonfigurowany adres IP przypisany do hosta zewnątrz naszej sieci

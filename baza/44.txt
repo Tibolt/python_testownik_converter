@@ -1,8 +1,6 @@
 X1100
 307. Które zdania opisuja protokol CISCO DISCOVERY PROTOCOL CDP (wybierz dwa)
-Przełczenie ramek
-Przesyłanie pakiet—w pomi«dzy urz dzeniami koÄcowymi
-Podział sieci na domeny rozg¸oszeniowe
-Obsług protoko¸u SIP
-Przełączanie pakiet—w
-Zestawianie połączeń pomi«dzy uýytkownikami
+CDP jest firmowym protoko¸em Csisco warstwy 2 uýywany do rozpoznania urzadzen Cisco
+Cisco rekomenduje wylaczenie CDP jezeli nie jest uzywany
+CDP jest protokolem dostpeowym wylcznie na LAN
+Prodokol CDP wymaga do swojego dzialania poprawnie skonfigurowanego ip

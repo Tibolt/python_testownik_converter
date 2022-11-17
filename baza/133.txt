@@ -1,8 +1,7 @@
 X10000
 398. Podaj maske blankietową związaną z adresem podsieci 192.168.12.96/27
-Wyłącz(shut down)wszystkie nieużywane porty
-Odseparuj ruch związany z zarządzaniem od ruchu użytkowników
-Przenieś wszystkie porty z VLAN 1 do nieużywanego VLANu
-Ustaw tryb auto desirable na wszystkich połączeniach typu trunk
-Zawsze używaj VLAN 1 do zarzadzania przełącznikami
-Uzywaj do zdalnego zarządzania przłącznikami protokołu TELNET
+0.0.0.31
+0.0.1.255
+255.255.255.224
+0.0.0.224
+0.0.0.0

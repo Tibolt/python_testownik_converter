@@ -1,8 +1,9 @@
 X01100000
 304. Które zdanie poprawnie opisuje sekwencje polecen przedstwiana
-wlacz shut down wszystkie nieuĹĽywane porty
-uzywaj do zdalengo zarzadzania przelacznikami TELENT
-zawsze urzywaj VLAN 1 do zarzadzania przelacznikami
-odseparuj ruch zwiazany z zarzadzaniem od ruchu uĹĽytkownikow
-przenis wszystkie porty z VLAN 1 do nieuĹĽywanego VLANUu
-Ustawiaj tryb auto desirable na wszystkich poĹ‚aczneniach typu trunk
+ipv6 route 2001:DB8:ACAD:2::/64 2001:DB8:ACAD:4::2
+ipv6 route 2001:DB8:ACAD:5::/64 2001:DB8:ACAD:4::2
+ipv6 route 2001:DB8:ACAD:3::/64 2001:DB8:ACAD:4::2
+tak skonstruowane trasy maja nazwe â€žDirectly Connected Static Routeâ€ť
+tak skonstruowane trasy nazywamy â€žNext-HOp Static Routeâ€ť
+Konifigurowany jest statyczny wybĂłr tras â€žStatic Routingâ€ť
+Jest to konifuracja trasy domyĹ›lnej â€žDefault routeâ€ť

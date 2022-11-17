@@ -1,6 +1,10 @@
 X11100010
 336. Typowe elementy, które znajdziemy zarówno w routerze jak i PC: (Wybierz 4)
-Equal cost metric
-Equal cost load balancing
-Equal no cost balancing
-Equal Route balancing
+RAM
+ROM
+System operacyjny
+Klawiatura
+Monitor LCD
+Interface szeregowe V35
+CPU
+DVD

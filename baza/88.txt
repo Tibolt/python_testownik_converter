@@ -1,6 +1,7 @@
 X11010
 353. Które z poniższych sformułowań dotyczących protokołów wyboru trasy korzystających algorytm rutowania typu stan-łącza są prawdziwe? (Wybierz trzy odpowiedzi).
-zmienna wartość kosztu łącza
-zmienia przepustowość interface na 56kbps
-to jest tylko opis
-jest konieczne dla sygnału DUAL
+Tworzą złożone bazy danych topologii sieci i korzystają z nich
+Są znane pod ogólną nazwą protokołów SPF
+Są uważane za dobre rozwiązania dla małych sieci wyposażonych w niedrogie rutery
+Są oparte na algorytmie Dijkstry
+Uzyskują informacje o trasach i wysyłają je do bezpośrednio połączonych sąsiadów

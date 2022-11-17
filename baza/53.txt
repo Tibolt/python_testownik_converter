@@ -1,6 +1,6 @@
 X1000
 318. Która skalowalna metoda musi być zastosowana aby obsłużyć inter-VLAN routing w sieci z przełącznikami z 1000 lub więcej VLANów? Wybierz jedną odpowiedź
-wiele interfejsów fizycznych rutera podłączonych do przełącznika warstwy 2
-router on a stick
-interfejs typu trunk pomiędzy ruterem i przełącznikiem
-multilayer switch z włączonym rutowaniem
+wewnętrzny wybór tras (routing) na przełączniku warstwy 3
+przyłączenie portu rutera do portu przełącznika skonfigurowanego w trybie trunk, każdy VLAN bedzie przypisany do subinterfejsu rutera.
+przyłączenie każdego fizycznego interfejsu rutera do innego fizycznego portu przełącznika, w którym każdy port jest przypisany do innego VLANu
+konfiguracja statycznych tras na przełączniku warstwy 2

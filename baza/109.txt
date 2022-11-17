@@ -1,6 +1,6 @@
 X0101
 374. Które zdania opisuja właściowsci sieci LAN z przełacznikami ? (wybierz 2)
-ipv6 address dhcp
-ipv6 enable
-ipv6 address autoconfigure
-ipv6 dhcp address stateful
+obsługuje wyłącznie protokół IP
+pozwala na większą elastyczność
+ułatwia powstawanie domen kolizyjnych
+zapewnia wsparcie dla usługi jakości (np. telefonia IP)

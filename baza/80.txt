@@ -1,6 +1,8 @@
 X110000
 345. Z jakiego powodu administrator sieci mialby używać interface petli zwrotnej (loopback) podczas konfigurowania protokolu OSPF (Wybierz 2):
-liczba przeskokow
-koszt poloczenia
-metryka
-szybkość lacza
+petle zwrotne to interface logiczne
+adrespetli zwrotnej (loopback) zostanie uzyty jako identyfikator routera zastępując lokalny adres IP
+adresy petli zwrotnej (loopback) powoduja wlaczenia funkcji sprawdzania bledow w protokole OSPF
+interfejsy petli zwrotnej sluza do ustawiania metryk protokolu OSPF
+adres petli zwrotnej (loopback)zastapi skonfigurowana wartość priorytetu routera
+jako identyfikator routera OSPF

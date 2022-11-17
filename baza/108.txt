@@ -1,8 +1,6 @@
 X1000
 373. Które polecenia powinny być uzyte na interface routera aby ustawic na nim klienta stateful DHCPv6? (Wybierz 1)
-przełączanie pakietow
-zestawienie połączeń miedzy użytkownikami końcowymi
-przesyłanie pakietów między urządzeniami końcowymi
-podział sieci na domeny rozgłoszeniowe
-przełączanie ramek
-obsługa protokołu SIP
+ipv6 address dhcp
+ipv6 enable
+ipv6 address autoconfigure
+ipv6 dhcp address stateful

@@ -1,6 +1,6 @@
 X1100
 405. Classiess Interdomain Routing ( CIDR ) umożliwia: ( wybierz dwie)
-Listy IPv6 ACL aktywujemy poleceniem ipv6 traffic-filter na wybranym interfejsie
-Listy IPv6 ACL zawierają dodatkowe ukryte reguły : permit icmp any any nd-na
-Listy IPv6 ACL podobnie jak w IPv4 dzielimy na standart i extended
-Listy IPv6 ACL definiujemy stosując maski blankietowe cztery razy dłuższe niz w IPv4
+sumowanie tras ( route summarization) do supersieci (supernetting)
+sumowanie tras z maską krótszą niz maska domyślną w adresacji pełnoklasowej
+stosowanie przy podziale na podsieci masek tej samej długości
+automatyczną agregację na granicy sieci z uzyciem maski domyślnej w adresacji pełnoklasowej

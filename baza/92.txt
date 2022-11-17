@@ -1,5 +1,6 @@
 X1001
 357. Które zdania definiują sieć VLAN (wybierz 2):
-warstwa 1
-warstwa 2
-warstwa 3
+hosty pracujące w jednym VLANie nie wiedzą , że istnieją inne vlany
+VLANy nie są od siebie odizolowane i pakiety mogą być przenoszone pomiędzy nimi bez przeszkód
+VLAN jest fizycznym podziałem sieci warstwy 1
+każdy VLAN jest domeną rozgłoszeniową zazwyczaj tożsamą z siecią IP

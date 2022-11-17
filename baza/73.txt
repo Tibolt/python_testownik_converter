@@ -1,6 +1,6 @@
 X1000
 338. Co oznacza skrot DTP w sieci przełączników:
-Sieć 192.168.3.0 255.255.255.0 jest dostepna przez interface s0/2/0
-na routerze nie zdefiniowano trasy domylsnej
-interface FastEthernet0/1 jest interface wyjściowym do sieci 192.168.3.0/24
-trasa domyślna jest dostepna przez adres 192.168.1.14
+Dynamic trunking protocol
+Dekstop publishing
+nazwa szczepionki
+Dynamic transfer protocol

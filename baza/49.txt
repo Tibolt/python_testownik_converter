@@ -1,6 +1,6 @@
 X0010
 312. Admiastrator sieci wydaje polecenie router ospf 100 co oznacza 100
-Zazwyczaj doposowujemy maske sieci do liczby urzadzen podsieci stutusjac technike VLSM
-NAjwkeszy zakres adresowy w jednej sieci jest ograniczony maska domyslna o dlugosci 8,16,24
-W sieciach uzywajacych tej adrsacji do podzialu na podsieci uzywamy tej samej maski
-Zazwyczaj adresy klasy C agragujemy
+metryke
+numer systemu autonomicznego
+indetyfikator procesu
+dystans administacyjny

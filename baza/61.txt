@@ -1,8 +1,6 @@
 X0001
 326. W odniesieniu do powyższego obrazka 25. Co jest przyczyną błędu wyświetlonego podczas konfiguracji inter-VLAN routing na ruterze Select one:
-Adresy pętli zwrotnej (loopback) powodują włączenie funkcji sprawdzania błędów w protokole OSPF
-Pętle zwrotne to interfejsy logiczne, dlatego nigdy nie ulegają awarii
-Adres pętli zwrotnej (loopback) zastąpi skonfigurowaną wartość priorytetu routera
-Jako identyfikator routera OSPF mogą być używane tylko adresy pętli zwrotnej (loopback)
-Adres pętli zwrotnej (loopback) zostanie użyty jako identyfikator rutera, zastępując lokalny adres IP
-Interfejsy pętli zwrotnych służą do ustawiania metryk protokołu OSPF
+Interfejs glgO/O nie obsługuje inter-VLAN routing
+Nie zostało wpisane polecenie no shutdown
+Adresy na ruterze Politechnika są niepoprawne
+Zabrakło polecenia encapsulation dotlą 20

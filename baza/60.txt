@@ -1,7 +1,8 @@
 X010010
 325. Z jakiego powodu administrator sieci miałby używać interfejsów pętli zwrotnej (loopback) podczas konfigurowania protokołu OSPF? (Wybierz dwie odpowiedzi) Wybierz jedną lub więcej:
-Uniemożliwić fizyczny dostęp do urządzeń
-Security port
-Zastosowac SSH
-Wylaczyc DHCP Snopping
-Ustawić port przełącznika w tryb Error Disable
+Adresy pętli zwrotnej (loopback) powodują włączenie funkcji sprawdzania błędów w protokole OSPF
+Pętle zwrotne to interfejsy logiczne, dlatego nigdy nie ulegają awarii
+Adres pętli zwrotnej (loopback) zastąpi skonfigurowaną wartość priorytetu routera
+Jako identyfikator routera OSPF mogą być używane tylko adresy pętli zwrotnej (loopback)
+Adres pętli zwrotnej (loopback) zostanie użyty jako identyfikator rutera, zastępując lokalny adres IP
+Interfejsy pętli zwrotnych służą do ustawiania metryk protokołu OSPF

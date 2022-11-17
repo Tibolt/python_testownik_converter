@@ -1,6 +1,6 @@
 X0110
 311. Adresacja peĹ‚noklasowa (classfull) ma nastÄ™pujÄ…ce cechy (wybierz dwie)
-od 192.168.70.0 do 192.168.70.255
-od 192.168.70.0 do 192.168.73.255
-od 192.168.70.0 do 192.168.71.255
-od 192.168.70.0 do 192.168.74.255
+Zazwyczaj doposowujemy maske sieci do liczby urzadzen podsieci stutusjac technike VLSM
+NAjwkeszy zakres adresowy w jednej sieci jest ograniczony maska domyslna o dlugosci 8,16,24
+W sieciach uzywajacych tej adrsacji do podzialu na podsieci uzywamy tej samej maski
+Zazwyczaj adresy klasy C agragujemy

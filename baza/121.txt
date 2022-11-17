@@ -1,6 +1,8 @@
 X110010
 386. Przełączniki pomagają łagodzić zatory w sieci (Alleviating NetWork Congestion) przez (wybierz trzy): Wybierz jedną lub więcej:
-Listy IPv6 ACL aktywujemy poleceniem ipv6 trafficfilter na wybranym interface
-Listy IPv6 ACL podobnie jak w IPv4 dzielimy na standard i extended
-Listy IPv6 ACL zawierają dodatkowe ukryte reguły Permit icmp Any Any Ndna Per mit icmp Any Any Ndns
-Listy IPv6 ACL definiujemy stosując maski blankietowe cztery razy dłuższe niż w IPv4
+Udostępnianie portów o dużej szybkości
+Ułatwianie segmentacji sieci lokalnej na osobne domeny kolizyjne
+Dzielenie ramek na mniejsze
+Stosowanie zaawansowanych protokołów wyboru trasy
+Umożliwianie komunikacji full-duplex pomiędzy urządzeniami
+Powszechne stosowanie światłowodowych portów o szybkości 10000000 b/s

@@ -1,6 +1,8 @@
 X010110
 377. Gdzie zazwyczaj stosujemy statyczny wybór tras (static routing) (Wybierz 3):
-router jest skonfigurowany jako serwer DHCP
-Jest to router szerokopasmowy w domu lub sieci SOHO
-router jest też bramą do sieci LAN
-gdy serwer WWW udostępniamy publicznie jest dołączony do routera
+tam gdzie należy utworzyć zapasową trasę na wypadek awarii trasy podstawowej
+w sieciach szybko rosnących ze złożoną topologią połączeń
+tam gdzie nie wymaga od administratora znajomości topologii zarządzanej sieci
+w mniejszych sieciach
+w sieciach końcowych (sub network)
+w dużych sieciach

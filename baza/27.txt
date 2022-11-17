@@ -1,6 +1,6 @@
 X1000
 124. Opis interfejsu i jego powiązań z innymi ruterami:
-SPF
-Hello
 Baza danych
+Hello
+OSPF
 LSA

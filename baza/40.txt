@@ -1,6 +1,8 @@
 X100110
 303. Które z podanych zalecen naleza do najlepszych praktyk w projektowaniu sieci z przelanikami wybiezrz (wybierz 3)
-Jest trasa która wybiera ruter w przypadku awari trasy
-jest prosta trasa statyczna z adresem IPv4 sieci docelowej 0.0.0.0/0
-jest trasa pasujaca do wszystkich pakietĂłw
-jest trasa do adresu pelnoklasowego np 172.16.0.0/16
+wlacz shut down wszystkie nieuĹĽywane porty
+uzywaj do zdalengo zarzadzania przelacznikami TELENT
+zawsze urzywaj VLAN 1 do zarzadzania przelacznikami
+odseparuj ruch zwiazany z zarzadzaniem od ruchu uĹĽytkownikow
+przenis wszystkie porty z VLAN 1 do nieuĹĽywanego VLANUu
+Ustawiaj tryb auto desirable na wszystkich poĹ‚aczneniach typu trunk

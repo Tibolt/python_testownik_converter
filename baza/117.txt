@@ -1,8 +1,6 @@
 X1100
 382. Które zdania opisują poprawinie znakowanie ramek w magistrali? (wybierz 2)
-Buffer overflow
-double tagging attack
-Network security reconnaissance attaca
-switch password attack
-switch spoofing attack
-phishing attack
+protokół IEEE 802 1Q dodaje znacznik (flag) na początku każdej ramki przesyłanej przez magistralę (VLAN Trunk)
+Znacznik (flag) raki pozwala przełącznikom na identyfikację dla którego VLAnu należą ramki
+jedynym protokołem używającym znaczników jest protokół IEEE 802 1Q
+Znakowanie ramek jest procesem polegającym na dodaniu nagłówka identyfikującego VLAN do ramki

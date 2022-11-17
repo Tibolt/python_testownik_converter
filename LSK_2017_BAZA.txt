@@ -107,11 +107,6 @@ ipv6 enable
 ipv6 address autoconfigure
 ipv6 dhcp server stateful
 
-X1
-113. Wypełnij puste pole. Użyj formatu kropkowo-dziesiętnego. Podaj maskę blankietową związaną z adresem
-podsieci 156.17.128.0/17
-0.0.127.255
-
 X11100
 114. Które z poniższych sformułowań dotyczących protokołów wyboru trasy korzystających z algorytmu rutowania typu stan-łącza są prawdziwe? (wybierz trzy)
 Są oparte na algorytmie Dijkstry
@@ -1018,8 +1013,9 @@ stosowanie przy podziale na podsieci masek tej samej długości
 automatyczną agregację na granicy sieci z uzyciem maski domyślnej w adresacji pełnoklasowej
 
 X0001
-W jaki sposób komputer podczas procesu kapsułkowania, określa czy pakiet jest kierowany do hosta w innej sieci?
+406. W jaki sposób komputer podczas procesu kapsułkowania, określa czy pakiet jest kierowany do hosta w innej sieci?
 Pyta serwer DNS o dane odległego hosta
 Wykonuje operację AND na docelowym adresie IP i swojej masce podsieci
 Wysyła broadcast do lokalnego segmentu aby otrzymać jakąkolwiek odpowiedż
 Sprawdza ARP cache w poszukiwaniu docelowego adresu MAC
+

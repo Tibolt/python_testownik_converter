@@ -1,7 +1,7 @@
 X01001
 371. Jakie są korzyści ze stosowania NAT (Wybierz 2):
-LSR
-LRU
-DBD
-Hello
-LSAck
+sprawia, że tunelowanie z użyciem IPsec jest mniej skomplikowane
+pozwala zaoszczędzić adresy publiczne
+sprawia,że usuwanie błędów rutowania jest łatwiejsze
+zwiększa wydajność rutowania
+poprawia prywatność i bezpieczeństwo sieci

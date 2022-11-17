@@ -1,6 +1,6 @@
 X1010
 383. Protokoły dynamicznego wyboru trasy (dynamic routing) (Wybierz 2):
-protokół IEEE 802 1Q dodaje znacznik (flag) na początku każdej ramki przesyłanej przez magistralę (VLAN Trunk)
-Znacznik (flag) raki pozwala przełącznikom na identyfikację dla którego VLAnu należą ramki
-jedynym protokołem używającym znaczników jest protokół IEEE 802 1Q
-Znakowanie ramek jest procesem polegającym na dodaniu nagłówka identyfikującego VLAN do ramki
+zarządzania aktualną informacją o trasach
+ręcznego wprowadzania tras przez administratora sieci
+znajdowania nowej najlepszej ścieżki gdy aktualna ścieżka przestaje być dostępna
+zabezpieczenia bramy ostatniej szansy (Gateway of Last Resort) dla sieci końcowej (stub Network)

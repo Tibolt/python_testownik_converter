@@ -1,7 +1,6 @@
 X0001
 118. Jak nazywa się kryterium wyboru najlepszej ścieżki (best path) przez ruter?
-Jedynym protokołem używającym znaczników (tags) jest protokół IEEE 802.1Q
-Znacznik (tag) ramki pozwala przełącznikom na identyfikację, do którego VLANu należą ramki
-Znakowanie ramek (frame tagging) jest procesem polegającym na dodaniu nagłówka identyfikującego
-VLAN do ramki
-Protokół IEEE 802.1Q dodaje znacznik (tag) na początku każdej ramki przesyłanej przez magistralę (VLAN trunk)
+Szybkość łącza
+Liczba przeskoków
+Koszt połączenia
+Metryka

@@ -1,6 +1,8 @@
 X111000
 397. Które z podanych zaleceń należą do najlepszych praktyk w projektowaniu sieci z przełącznikami(wybierz 3)
-dystans administracyjny
-identyfikator procesu
-metrykę
-umer systemu autonomicznego
+Wyłącz(shut down)wszystkie nieużywane porty
+Odseparuj ruch związany z zarządzaniem od ruchu użytkowników
+Przenieś wszystkie porty z VLAN 1 do nieużywanego VLANu
+Ustaw tryb auto desirable na wszystkich połączeniach typu trunk
+Zawsze używaj VLAN 1 do zarzadzania przełącznikami
+Uzywaj do zdalnego zarządzania przłącznikami protokołu TELNET

@@ -1,6 +1,6 @@
 X0010
 401. Który zakres adresów jest określony przy pomocy maski blankietowej 192.168.70.0 0.0.1.255
-Adresy na routerze Politechnika są niepoprawne
-Interfejs gig0/0 nie obsługuje inter-VLAN routing
-Nie zosatło wpisane polecenie: no shutdown
-Zabrakło polecenia encapsulation dot1q 20
+od 192.168.70.0 do 192.168.73.255
+od 192.168.70.0 do 192.168.71.254
+od 192.168.70.0 do 192.168.71.255
+od 192.168.70.0 do 192.168.70.255

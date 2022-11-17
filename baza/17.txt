@@ -1,6 +1,6 @@
 X0001
 116. Który zakres adresów jest określony przy pomocy maski maski blankietowej 172.16.32.0 0.0.15.255?
-Każdy przełącznik LAN obsługuje protokół OSPF
-Najszybsze przełączniki LAN przenoszą ramki z opóźnieniem około 32 bitów
-Przełącznik LAN przenosi ramki Ethernet na podstawie adresu docelowego ramki Ethernet
-Przełącznik podejmuje decyzję w oparciu o port wejściowy i port docelowy
+od 172.16.32.0 do 172.16.34.255
+od 172.16.32.0 do 172.16.240.255
+od 172.16.32.0 do 172.16.63.255
+od 172.16.32.0 do 172.16.47.255

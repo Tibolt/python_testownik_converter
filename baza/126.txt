@@ -1,6 +1,6 @@
 X1100
 391. Protokoły dynamicznego wyboru trasy(dynamic routing) słuzą do: (wybierz dwie)
-routed port
-SVI
-trunk
-access port
+Zarządzania aktualną informacją o trasie
+Znajdowania najlepszej scieżki gdy aktualna ścieżka przestaje być dostępna
+Ręcznego wprowadzania tras przez administratora sieci
+Zabezpieczenia bramy ostatniej szansy(gateway of Last Resort) dla sieci końcowej

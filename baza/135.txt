@@ -1,7 +1,6 @@
 X0001
 400. W odniesieniu do powyższego obrazka ( 93.jpg). Co jest przyczyną błędu wyświetlanego podczas konfiguracji inter-VLAN routing na routerze Politechnika
-Są one tworzone w trybie konfiguracji interfejsu( interface configuration mode)
-Są automatycznie aktualizowane gdy interfejs jest rekonfigurowany lub wyłączony
-Są identyfikowane w tablicy wybory trasy (routing table) przez prefiks S
-Wymagają ręcznej konfiguracji aby dopasować je do zmian w sieci
-Są generowane automatycznie po wpisaniu bramy domyślnej na ruterze
+Adresy na routerze Politechnika są niepoprawne
+Interfejs gig0/0 nie obsługuje inter-VLAN routing
+Nie zosatło wpisane polecenie: no shutdown
+Zabrakło polecenia encapsulation dot1q 20

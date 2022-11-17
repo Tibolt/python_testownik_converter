@@ -1,6 +1,6 @@
 X1000
 327. Ktore z poleceni spowoduje rozgłoszenie domyślenej trasy statycznej przez protokół OSPF ?
-Interfejs glgO/O nie obsługuje inter-VLAN routing
-Nie zostało wpisane polecenie no shutdown
-Adresy na ruterze Politechnika są niepoprawne
-Zabrakło polecenia encapsulation dotlą 20
+default-information orginate
+redistribute static
+trasa domyslne sa tylko lokalne i nie moga byc rozglaszane przez OSPF
+network 0.0.0.0 0.0.0.0 area 0

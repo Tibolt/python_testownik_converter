@@ -1,5 +1,6 @@
 X0100
 335. Mechanizm wysylania pakietow adresowanych do wybranego celu przez wiele interface routera nazywamy ? Wybierz jedno:
-0.0.0.31
-192.168.12.96
-0.0.0.1
+Equal cost metric
+Equal cost load balancing
+Equal no cost balancing
+Equal Route balancing

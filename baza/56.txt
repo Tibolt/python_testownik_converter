@@ -1,6 +1,7 @@
 X01000
 321. Użytkownik włącza swój komputer do nieużywanego do tej pory gniazdka i uzyskuje nieuprawniony dostęp do sieci
-Zmienić regułę 10 na deny tcp 192.168.11.0 0.0.0.255 192.168.30.0 0.0.0.255 eq 23
-Zmienić regułę 10 na deny tcp 192.168.11.0 0.0.0.255 192.168.30.0 0.0.0.255
-Zmienić regułę 10 na deny tcp O. O. O. O 255.255.255.255 O. O. O. O 255.255.255.255
-Zmienić regułę 10 na deny tcp O. O. O. O 255.255.255.255 O. O. O. O 255.255.255.255 eq telnet
+Uniemożliwić fizyczny dostęp do urządzeń
+Security port
+Zastosowac SSH
+Wylaczyc DHCP Snopping
+Ustawić port przełącznika w tryb Error Disable

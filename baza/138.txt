@@ -1,6 +1,6 @@
 X1010
 403. Które cechy opisuja domyślną trasę (default static route)? (wybierz dwie)
-Znacznik (tag) ramki pozwala przełącznikom na identyfiakcję do którego VLANu należą ramki
-Znakowanie ramek (frame tagging) jest procesem polegającym na dodaniu do nagłówka indetyfikującego VLAn do ramki
-Protokół IEEE 802.1Q dodaje znacznik (tag) na początku każdej ramki przesyłanej przez magistrale ( VLAN trunk)
-Jedynym protokołem używającym znaczników (tags) jest protokół IEEE 802.1Q
+jest trasą pasującą do wszystkich pakietów
+jest trasą, którą wybierze router w przypadku awarii trasy podstawowej
+jest prostą trasą statyczną z adresem IPv4 sieci docelowej 0.0.0.0/0
+jest trasą dp adresu pełnoklasowego np. 172.16.0.0/16

@@ -1,6 +1,4 @@
 X10
 348. OSPF
-CAM jest tablicą wyboru trasy protokołu EIGRP
-CAM zawiera informacje o kierunku do celu i odległości
-odwzorowania adresu MAC urzadzenia na port przelacznika sa przechowywane w CAM
-CAM jest specjalnym rodzajem pamieci uzywanym do bardzo szybkiego wyszukiwania
+protokol bezklasowy
+protokol pelnoklasowy

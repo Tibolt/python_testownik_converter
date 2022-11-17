@@ -1,6 +1,6 @@
 X0100
 315. Które z poniższych zdań poprawnie opisuje rolę NAT w IPv6? Wybierz jedną odpowiedź
-metryke
-numer systemu autonomicznego
-indetyfikator procesu
-dystans administacyjny
+NAT64 został porzucony przez IETF na rzecz NAT-PT
+Jest to tymczasowy mechanizm wspomagający migrację z adresów IPv4 do IPv6
+Przykładem zastosowania NAT dla IPv6 jest Dual stack
+NAT jest używany do konwersji adresów prywatnych IPv6 na adresy publiczne IPv6

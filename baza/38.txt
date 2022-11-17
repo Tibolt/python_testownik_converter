@@ -1,12 +1,6 @@
 X1001
 301. Które zdanie opisuje działania przełcznikaznik (wybierz dwa)
-ip adores 10.0.1.1 255.255.255.0
-no sh
-exit
-ip dhcp pool RELAY
-end
-Jaednak kliniet DHCP nie otrzyumuje konfiguracji IP z serwera DHCP jaka jest prawdopodobna przyczyna tej sytuacji ?
-Pula adresu—w nie moýe nazywaŤ sie RELAY
-Adres IP jest niepoprawyny dla uzytyej maski podsieci
-Router jest skonfigurowany jako klinet DHCP
-NIe wpisana polecnia ip helper address
+Przełacznik LAN przenosi ramiki Ethernet na podstawie adresu docelowego ramiki Ethernet
+Kazdy przelacznik LAN obsluguje protokol OSPF
+Najszybsze przeloaczniki LAN przenosza ramki z opóźnieniem okolo 32 bitów
+PrzeĹ‚acznik podejmuje decyzje w opraciu o port wyjsciowy i port docelowy

@@ -1,6 +1,7 @@
 X00011
 365. Które z poniższych okreslen sa poprawne dla list rozszerzonych extended ACL (Wybierz 2)
-Ruter jest skonfigurowany jako klient DHCP
-Nie wpisano polecenia ip helper address
-Adres IP jest niepoprawny dla użytej maski podsieci
-Pula adresów nie może nazywać się RELAY
+numer portu może być uzyty do uściślenia definicji ACL
+extender ACL jest zakonczona niejawna regula przepusc (permit)
+extender ACL jest oznaczona liczbami z zakresu od 1 do 99
+extender ACL sprawdza adres zrodla i adres docelowy
+wiele list ACL może być uzyte na tym samym interfejsie pod warunkiem, ze dotyczy tego samego kierunku ruchu

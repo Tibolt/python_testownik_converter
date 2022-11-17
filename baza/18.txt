@@ -1,6 +1,7 @@
 X0101
 117. Które zdania opisują poprawnie znakowanie ramek w magistrali (frame tagging)? (wybierz dwie)
-od 172.16.32.0 do 172.16.34.255
-od 172.16.32.0 do 172.16.240.255
-od 172.16.32.0 do 172.16.63.255
-od 172.16.32.0 do 172.16.47.255
+Jedynym protokołem używającym znaczników (tags) jest protokół IEEE 802.1Q
+Znacznik (tag) ramki pozwala przełącznikom na identyfikację, do którego VLANu należą ramki
+Znakowanie ramek (frame tagging) jest procesem polegającym na dodaniu nagłówka identyfikującego
+VLAN do ramki
+Protokół IEEE 802.1Q dodaje znacznik (tag) na początku każdej ramki przesyłanej przez magistralę (VLAN trunk)

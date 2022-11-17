@@ -1,8 +1,6 @@
 X1000
 122. Co zostanie użyte podczas wyboru rutera DR/BDR w protokole OSPF, kiedy okaże się, że rutery mają identyczne priorytety interfejsu OSPF?
-Adres docelowy pakietu jest zmieniany w każdym ruterze
-Pole TTL jest dekrementowane o 3 w każdym ruterze
-Gdy pole TTL osiągnie wartość zero, pakiet jest gubiony
-Adres źródłowy i docelowy nie są nigdy zmieniane
-Adres źródłowy i docelowy MAC jest zmieniany w każdym ruterze
-Adres źródłowy pakietu jest zmieniany w każdym ruterze
+identyfikator rutera
+najniższy koszt interfejsu
+najniższy adres IP interfejsu
+najwyższy numer procesu OSPF

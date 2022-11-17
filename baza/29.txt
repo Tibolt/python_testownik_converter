@@ -1,6 +1,4 @@
 X10
 128. Jaki rodzaj połączenia zostanie zrealizowany, gdy jeden z portów jest w trybie Dynamic Auto, a drugi Dynamic auto?
-SPF
-Hello
-Baza danych
-LSA
+Access
+Trunk

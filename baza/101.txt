@@ -1,7 +1,6 @@
 X0100
 366. Który z poniższych adresow w zapisie z prefixem jest uzywany w IPv6 jako domyslna trasa statyczna (default route) (Wybierz 1):
-numer portu może być uzyty do uściślenia definicji ACL
-extender ACL jest zakonczona niejawna regula przepusc (permit)
-extender ACL jest oznaczona liczbami z zakresu od 1 do 99
-extender ACL sprawdza adres zrodla i adres docelowy
-wiele list ACL może być uzyte na tym samym interfejsie pod warunkiem, ze dotyczy tego samego kierunku ruchu
+FF02::1/8
+::/0
+0.0.0.0/0
+::1/128

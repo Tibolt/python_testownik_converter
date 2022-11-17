@@ -1,6 +1,6 @@
 X1010
 385. Które określenia są poprawne w przypadku list kontroli dostępu (ACL) dla IPv6 (Wybierz 2):
-sumowanie tras (route summarization) do supersieci (supernetting)
-automatyczną agregację na granicy sieci z użyciem maski domyślnej w adresacji pełno klasowej
-sumowanie tras z maską krótszą niż maska domyślna w adresacji pełnoklasowej
-stosowanie przy podziale na podsieci masek tej samej długości
+Listy IPv6 ACL aktywujemy poleceniem ipv6 trafficfilter na wybranym interface
+Listy IPv6 ACL podobnie jak w IPv4 dzielimy na standard i extended
+Listy IPv6 ACL zawierają dodatkowe ukryte reguły Permit icmp Any Any Ndna Per mit icmp Any Any Ndns
+Listy IPv6 ACL definiujemy stosując maski blankietowe cztery razy dłuższe niż w IPv4

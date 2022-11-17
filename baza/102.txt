@@ -1,6 +1,8 @@
 X001110
 367. Które z podanych zalecen naleza do najlepszych praktyk w projektowaniu sieci z przelacznikami (wybierz 3):
-FF02::1/8
-::/0
-0.0.0.0/0
-::1/128
+ustawiaj tryb autodesirable na wszystkich przelacznikach typu trunk
+uzywaj do zdalnego zarzadzania protokolu TELNET
+wylacz (shut down) wszystkie nieuzywane porty
+odseparuj ruch związany z zarzadzaniem od ruchu użytkowników
+przenieś wszystkie porty z VLAN 1 do nieuzywanego VLANu
+zawsze uzywaj vlan 1 do zaradzania przelacznikami

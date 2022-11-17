@@ -1,8 +1,8 @@
 X001110
 121. Gdy pakiet wędruje z sieci do sieci, to... (wybierz 3)
-Powszechnie stosowanie światłowodowych portów o szybkości 10000000 b/s
-Stosowanie zaawansowanych protokołów wyboru trasy
-Udostępnianie portów o dużej szybkości
-Umożliwianie komunikacji full-duplex pomiędzy urządzeniami
-Dzielenie ramek na mniejsze
-Ułatwianie segmentacji sieci lokalnej na osobne domeny kolizyjne
+Adres docelowy pakietu jest zmieniany w każdym ruterze
+Pole TTL jest dekrementowane o 3 w każdym ruterze
+Gdy pole TTL osiągnie wartość zero, pakiet jest gubiony
+Adres źródłowy i docelowy nie są nigdy zmieniane
+Adres źródłowy i docelowy MAC jest zmieniany w każdym ruterze
+Adres źródłowy pakietu jest zmieniany w każdym ruterze

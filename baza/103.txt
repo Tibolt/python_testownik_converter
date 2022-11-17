@@ -1,8 +1,6 @@
 X0110
 368. Protokoły dynamicznego wyboru trasy (dynamic routing) służą do: (Wybierz 2)
-ustawiaj tryb autodesirable na wszystkich przelacznikach typu trunk
-uzywaj do zdalnego zarzadzania protokolu TELNET
-wylacz (shut down) wszystkie nieuzywane porty
-odseparuj ruch związany z zarzadzaniem od ruchu użytkowników
-przenieś wszystkie porty z VLAN 1 do nieuzywanego VLANu
-zawsze uzywaj vlan 1 do zaradzania przelacznikami
+ręcznego wprowadzania tras przez administratora w sieci
+znajdowania nowej najlepszej ścieżki gdy aktualna ścieżka przestaje być dostępna
+zarządza aktualną informacją o trasach
+zabezpiecza bramy ostatniej szansy (gateway of last resort) dla sieci końcowej (stub Network)

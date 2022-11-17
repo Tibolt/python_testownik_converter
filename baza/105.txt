@@ -1,6 +1,7 @@
 X01000
 370. Którego z poniższych typów pakietów nie znajdziemy w protokole OSPF (Wybierz 1):
-Tak skonstruowane trasy nazywamy “NextHop Static Route”
-Tak skonstruowane trasy mają nazwę “Directly Connected Static Route”
-Jest to konfiguracja trasy domyślnej “Default Route”
-Konfigurowany jest statyczny wybór tras “Static Routing”
+LSR
+LRU
+DBD
+Hello
+LSAck

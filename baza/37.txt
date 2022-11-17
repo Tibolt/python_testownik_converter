@@ -1,6 +1,12 @@
 X0001000000
 300. Administrator ma skonfiguraowac DHCPv4 relay router i wpowadza nastpujace poleceni int g0/0
-Metryka
-Liczba przeskoków
-Koszt połączenia
-Szybkośc łącza
+ip adores 10.0.1.1 255.255.255.0
+no sh
+exit
+ip dhcp pool RELAY
+end
+Jaednak kliniet DHCP nie otrzyumuje konfiguracji IP z serwera DHCP jaka jest prawdopodobna przyczyna tej sytuacji ?
+Pula adresu—w nie moýe nazywaŤ sie RELAY
+Adres IP jest niepoprawyny dla uzytyej maski podsieci
+Router jest skonfigurowany jako klinet DHCP
+NIe wpisana polecnia ip helper address

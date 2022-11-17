@@ -1,4 +1,6 @@
 X0010
 344. Jak nazywa się kryterium wyboru najlepszej sciezki (Best path) przez router ? (wybierz 1)
-Link state Routing Protocol
-Distance Vector Routing Protocol
+liczba przeskokow
+koszt poloczenia
+metryka
+szybkość lacza

@@ -1,2 +1,7 @@
 X11100
 114. Które z poniższych sformułowań dotyczących protokołów wyboru trasy korzystających z algorytmu rutowania typu stan-łącza są prawdziwe? (wybierz trzy)
+Są oparte na algorytmie Dijkstry
+Tworzą złożone bazy danych topologii sieci i korzystają z nich
+Są znane pod ogólną nazwą protokołów SPF
+Uzyskują informacje o trasach i wysyłają je do bezpośrednio połączonych sąsiadów
+Są uważane za dobre rozwiązania dla małych sieci wyposażonych w niedrogie rutery

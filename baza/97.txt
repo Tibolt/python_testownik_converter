@@ -1,8 +1,6 @@
 X1001
 362. Które zdania opisuja dzialanie przelacznika ? (Wybierz 2)
-To pojęcie jest związane ze znanym błędem techniki przełączania CutThrough
-Może być zagrożeniem dla bezpieczeństwa sieci
-Nie występuje gdy stosujemy technikę przełączania StoreandForward
-Jest zjawiskiem występującym gdy w tablicy CAM nie jest zapisany port odbiorcy ramek
-Nie występuje w sieciach podzielonych na VLANy
-W czasie MAC Address Flooding ramki są rozsyłane na wszystkie porty przełącznika
+przelacznik LAN przenosi ramki Ethernet na podstawie adresu docelowego ramki Ethernet
+najszybsze przelaczniki LAN Przenosza ramki z opoznieniem około 32 bitow
+każdy przelacznik LAN obsluguje protokol OSPF
+przelacznik podejmuje decyzje w oparciu o port wejściowy i port docelowy

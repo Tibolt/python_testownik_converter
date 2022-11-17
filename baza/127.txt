@@ -1,6 +1,7 @@
 X0001
 392. Które polecenie realizuje poprawnie następującą politykę : Zarządzanie rutera R1 przezTelnet/SSH może
-Zarządzania aktualną informacją o trasie
-Znajdowania najlepszej scieżki gdy aktualna ścieżka przestaje być dostępna
-Ręcznego wprowadzania tras przez administratora sieci
-Zabezpieczenia bramy ostatniej szansy(gateway of Last Resort) dla sieci końcowej
+być realizowane wyłącznie z adresu 10.1.1.1
+R1(config)# ip access-list 10 permit host 10.1.1.1 R1(config)#interface f0/0 R1(config)#ip access-group 10 in
+R1(config)# ip access-list 10 permit host 10.1.1.1 R1(config)#line vty 0 15 R1(config)#ip access-group 10 out
+R1(config)# ip access-list 10 permit host 10.1.1.1 0.0.0.0 R1(config)#line vty 0 15 R1(config)#ip accessgroup 10 in
+R1(config)# ip access-list 10 permit host 10.1.1.1 R1(config)#line vty 0 15 R1(config)#ip access-group 10 in
