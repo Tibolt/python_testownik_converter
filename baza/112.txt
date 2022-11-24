@@ -1,4 +1,4 @@
-X010110
+X100110
 377. Gdzie zazwyczaj stosujemy statyczny wybór tras (static routing) (Wybierz 3):
 tam gdzie należy utworzyć zapasową trasę na wypadek awarii trasy podstawowej
 w sieciach szybko rosnących ze złożoną topologią połączeń
