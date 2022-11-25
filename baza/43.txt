@@ -1,8 +1,0 @@
-X001011
-306. Typowe funkcje routera to(wybierz 3 ):
-Przełczenie ramek
-Przesyłanie pakiet—w pomi«dzy urz dzeniami koÄcowymi
-Podział sieci na domeny rozg¸oszeniowe
-Obsług protoko¸u SIP
-Przełączanie pakiet—w
-Zestawianie połączeń pomi«dzy uýytkownikami

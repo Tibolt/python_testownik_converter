@@ -311,15 +311,6 @@ przełącznik każdego fizycznego interfejsu do innego fizycznego przełąacznik
 wewnętrzny wybór tras(routing) na przełączniku warstwy 3
 przyĹ‚Ä…cznie portu routera do portu przeĹ‚acznika skonfigurowanego w trybie trunk â€¦
 
-X001011
-306. Typowe funkcje routera to(wybierz 3 ):
-Przełczenie ramek
-Przesyłanie pakiet—w pomi«dzy urz dzeniami koÄcowymi
-Podział sieci na domeny rozg¸oszeniowe
-Obsług protoko¸u SIP
-Przełączanie pakiet—w
-Zestawianie połączeń pomi«dzy uýytkownikami
-
 X1100
 307. Które zdania opisuja protokol CISCO DISCOVERY PROTOCOL CDP (wybierz dwa)
 CDP jest firmowym protoko¸em Csisco warstwy 2 uýywany do rozpoznania urzadzen Cisco
